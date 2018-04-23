@@ -24,7 +24,7 @@
   <![endif]-->
 
   <script src="js/jquery-3.1.0.min.js"></script>
-  <script src="js/lightslider-master/dist/js/lightslider.min.js"></script>
+  <script src="js/lightslider.min.js"></script>
   <script src="js/lightgallery-all.min.js"></script>
   <script src="js/jquery.fullPage.min.js"></script>
   <script src="js/jquery.fullpage.extensions.min.js"></script>
