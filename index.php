@@ -28,7 +28,7 @@
   <script src="js/lightgallery-all.min.js"></script>
   <script src="js/jquery.fullPage.min.js"></script>
   <script src="js/jquery.fullpage.extensions.min.js"></script>
-  <script src="js/ScrollMagic-master/scrollmagic/minified/ScrollMagic.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/ScrollMagic.min.js"></script>
   <script src="js/script.js"></script>
 
 
