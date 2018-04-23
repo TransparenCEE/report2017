@@ -1,0 +1,8195 @@
+{
+"AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and\/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https:\/\/codekitapp.com\/",
+"buildSteps": [
+	{
+		"name": "Process All Remaining Files and Folders",
+		"stepType": 1,
+		"uuidString": "5F4A330F-B1C3-4427-A3DC-25BE969A830B"
+		}
+	],
+"creatorBuild": "26680",
+"files": {
+	"\/css\/initials.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/initials-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/css\/jquery.fullPage.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/jquery.fullPage-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/css\/lightgallery.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/lightgallery.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/css\/lightslider.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/lightslider.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/css\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/css\/style.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/css\/style.css.map",
+		"oF": 0
+		},
+	"\/fonts\/lg.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/lg.eot",
+		"oF": 0
+		},
+	"\/fonts\/lg.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/fonts\/lg.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/fonts\/lg.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/lg.ttf",
+		"oF": 0
+		},
+	"\/fonts\/lg.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/lg.woff",
+		"oF": 0
+		},
+	"\/images\/2017Datafest\/DF_11152017_Event_day1_0042.jpg": {
+		"ft": 16384,
+		"iS": 987733,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017Datafest\/DF_11152017_Event_day1_0042.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017Datafest\/DF_11152017_Event_day1_0056.jpg": {
+		"ft": 16384,
+		"iS": 884626,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017Datafest\/DF_11152017_Event_day1_0056.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017Datafest\/DF_11152017_Event_day1_0059.jpg": {
+		"ft": 16384,
+		"iS": 1117538,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017Datafest\/DF_11152017_Event_day1_0059.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017Datafest\/DF_11152017_Event_day1_0076.jpg": {
+		"ft": 16384,
+		"iS": 1011693,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017Datafest\/DF_11152017_Event_day1_0076.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017Datafest\/DF_11152017_Event_day1_0085.jpg": {
+		"ft": 16384,
+		"iS": 1064565,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017Datafest\/DF_11152017_Event_day1_0085.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017Datafest\/DF_11152017_Event_day1_0151.jpg": {
+		"ft": 16384,
+		"iS": 985324,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017Datafest\/DF_11152017_Event_day1_0151.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017Datafest\/DF_11152017_Event_day1_0191.jpg": {
+		"ft": 16384,
+		"iS": 1451875,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017Datafest\/DF_11152017_Event_day1_0191.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017Datafest\/DF_11152017_Event_day1_0206.jpg": {
+		"ft": 16384,
+		"iS": 1115894,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017Datafest\/DF_11152017_Event_day1_0206.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017Datafest\/DSC_6336.jpg": {
+		"ft": 16384,
+		"iS": 1053209,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017Datafest\/DSC_6336.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017Datafest\/DSC_6542.jpg": {
+		"ft": 16384,
+		"iS": 908103,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017Datafest\/DSC_6542.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017Datafest\/h22.jpg": {
+		"ft": 16384,
+		"iS": 1330738,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017Datafest\/h22.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017Datafest\/h32.jpg": {
+		"ft": 16384,
+		"iS": 1834111,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017Datafest\/h32.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017Datafest\/h5.jpg": {
+		"ft": 16384,
+		"iS": 1516175,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017Datafest\/h5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017Datafest\/PIC_3915.jpg": {
+		"ft": 16384,
+		"iS": 916615,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017Datafest\/PIC_3915.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017Datafest\/PIC_4070.jpg": {
+		"ft": 16384,
+		"iS": 1429847,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017Datafest\/PIC_4070.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017PDFCEE\/pdf_7G29323.jpg": {
+		"ft": 16384,
+		"iS": 1042086,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017PDFCEE\/pdf_7G29323.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017PDFCEE\/pdf_7G29356.jpg": {
+		"ft": 16384,
+		"iS": 586436,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017PDFCEE\/pdf_7G29356.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017PDFCEE\/pdf_7G29362.jpg": {
+		"ft": 16384,
+		"iS": 544559,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017PDFCEE\/pdf_7G29362.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017PDFCEE\/pdf_7G29375.jpg": {
+		"ft": 16384,
+		"iS": 791588,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017PDFCEE\/pdf_7G29375.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017PDFCEE\/pdf_7G29417.jpg": {
+		"ft": 16384,
+		"iS": 1641804,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017PDFCEE\/pdf_7G29417.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017PDFCEE\/pdf_7G29457.jpg": {
+		"ft": 16384,
+		"iS": 544713,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017PDFCEE\/pdf_7G29457.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017PDFCEE\/pdf_7G29512.jpg": {
+		"ft": 16384,
+		"iS": 1258755,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017PDFCEE\/pdf_7G29512.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017PDFCEE\/pdf_7G29546.jpg": {
+		"ft": 16384,
+		"iS": 1171439,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017PDFCEE\/pdf_7G29546.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017PDFCEE\/pdf_7G29547.jpg": {
+		"ft": 16384,
+		"iS": 1106408,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017PDFCEE\/pdf_7G29547.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017PDFCEE\/pdf_7G29605.jpg": {
+		"ft": 16384,
+		"iS": 738450,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017PDFCEE\/pdf_7G29605.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017PDFCEE\/pdf_7G29669.jpg": {
+		"ft": 16384,
+		"iS": 784359,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017PDFCEE\/pdf_7G29669.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017PDFCEE\/pdf_7G29677.jpg": {
+		"ft": 16384,
+		"iS": 1022286,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017PDFCEE\/pdf_7G29677.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017PDFCEE\/pdf_7G29897.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017PDFCEE\/pdf_7G29897.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017PDFCEE\/pdf_7G29907.jpg": {
+		"ft": 16384,
+		"iS": 578633,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017PDFCEE\/pdf_7G29907.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017PDFCEE\/pdf_7G29965.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017PDFCEE\/pdf_7G29965.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017Point\/POINT 6.0 Day 1 05.jpg": {
+		"ft": 16384,
+		"iS": 3976605,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017Point\/POINT 6.0 Day 1 05.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017Point\/POINT 6.0 Day 1 12.jpg": {
+		"ft": 16384,
+		"iS": 4695477,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017Point\/POINT 6.0 Day 1 12.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017Point\/POINT 6.0 Day 1 135.jpg": {
+		"ft": 16384,
+		"iS": 3742324,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017Point\/POINT 6.0 Day 1 135.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017Point\/POINT 6.0 Day 1 21.jpg": {
+		"ft": 16384,
+		"iS": 3760658,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017Point\/POINT 6.0 Day 1 21.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017Point\/POINT 6.0 Day 1 52.jpg": {
+		"ft": 16384,
+		"iS": 3945929,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017Point\/POINT 6.0 Day 1 52.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017Point\/POINT 6.0 Day 1 77.jpg": {
+		"ft": 16384,
+		"iS": 3538324,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017Point\/POINT 6.0 Day 1 77.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017Point\/POINT 6.0 Day 2 03.jpg": {
+		"ft": 16384,
+		"iS": 3970608,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017Point\/POINT 6.0 Day 2 03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017Point\/POINT 6.0 Day 2 05.jpg": {
+		"ft": 16384,
+		"iS": 3656163,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017Point\/POINT 6.0 Day 2 05.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017Point\/POINT 6.0 Day 2 10.jpg": {
+		"ft": 16384,
+		"iS": 4300733,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017Point\/POINT 6.0 Day 2 10.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017Point\/POINT 6.0 Workshops 15.jpg": {
+		"ft": 16384,
+		"iS": 2658296,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017Point\/POINT 6.0 Workshops 15.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017Point\/POINT 6.0 Workshops 19.jpg": {
+		"ft": 16384,
+		"iS": 2735355,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017Point\/POINT 6.0 Workshops 19.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017Point\/POINT 6.0 Workshops 25.jpg": {
+		"ft": 16384,
+		"iS": 3561587,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017Point\/POINT 6.0 Workshops 25.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017Point\/POINT 6.0 Workshops 32.jpg": {
+		"ft": 16384,
+		"iS": 3166126,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017Point\/POINT 6.0 Workshops 32.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017Point\/zPOINT 6.0 - Pussy Riot Theatre 03.jpg": {
+		"ft": 16384,
+		"iS": 3611731,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017Point\/zPOINT 6.0 - Pussy Riot Theatre 03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/2017Point\/zPOINT 6.0 - Pussy Riot Theatre 06.jpg": {
+		"ft": 16384,
+		"iS": 2957071,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/2017Point\/zPOINT 6.0 - Pussy Riot Theatre 06.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/arrow-bottom.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/images\/arrow-bottom.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/images\/arrow-last-left.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/images\/arrow-last-left.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/images\/arrow-last-right.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/images\/arrow-last-right.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/images\/arrow-left.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/images\/arrow-left.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/images\/arrow-right.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/images\/arrow-right.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/images\/arrow-white.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/images\/arrow-white.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/images\/best_pract.png": {
+		"ft": 32768,
+		"iS": 21709,
+		"oA": 0,
+		"oAP": "\/images\/best_pract.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/bogojevic.png": {
+		"ft": 32768,
+		"iS": 21990,
+		"oA": 0,
+		"oAP": "\/images\/bogojevic.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/calendar-icon.png": {
+		"ft": 32768,
+		"iS": 433,
+		"oA": 0,
+		"oAP": "\/images\/calendar-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/CommunityMeetUPGeorgia\/14242500_508832509328077_2564732762311695565_o.jpg": {
+		"ft": 16384,
+		"iS": 122528,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/CommunityMeetUPGeorgia\/14242500_508832509328077_2564732762311695565_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/CommunityMeetUPGeorgia\/14249762_508783169333011_1425831756655358229_o.jpg": {
+		"ft": 16384,
+		"iS": 242157,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/CommunityMeetUPGeorgia\/14249762_508783169333011_1425831756655358229_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/CommunityMeetUPGeorgia\/14257681_508727652671896_2452930294017683420_o.jpg": {
+		"ft": 16384,
+		"iS": 527268,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/CommunityMeetUPGeorgia\/14257681_508727652671896_2452930294017683420_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/CommunityMeetUPGeorgia\/14305275_508834605994534_2128351540132869843_o.jpg": {
+		"ft": 16384,
+		"iS": 221893,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/CommunityMeetUPGeorgia\/14305275_508834605994534_2128351540132869843_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/CommunityMeetUPGeorgia\/14310411_508780905999904_6778940070967049353_o.jpg": {
+		"ft": 16384,
+		"iS": 304677,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/CommunityMeetUPGeorgia\/14310411_508780905999904_6778940070967049353_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/CommunityMeetUPGeorgia\/14311439_508728099338518_2620021103983107298_o.jpg": {
+		"ft": 16384,
+		"iS": 219681,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/CommunityMeetUPGeorgia\/14311439_508728099338518_2620021103983107298_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/CommunityMeetUPGeorgia\/14324269_508727439338584_4068150395051492685_o.jpg": {
+		"ft": 16384,
+		"iS": 92332,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/CommunityMeetUPGeorgia\/14324269_508727439338584_4068150395051492685_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/CommunityMeetUPGeorgia\/14324294_508835549327773_9171724145730885842_o.jpg": {
+		"ft": 16384,
+		"iS": 204046,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/CommunityMeetUPGeorgia\/14324294_508835549327773_9171724145730885842_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/CommunityMeetUPGeorgia\/14324680_508780332666628_2542288372488875071_o.jpg": {
+		"ft": 16384,
+		"iS": 241742,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/CommunityMeetUPGeorgia\/14324680_508780332666628_2542288372488875071_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/CommunityMeetUPGeorgia\/14352089_508728026005192_6419407062231964593_o.jpg": {
+		"ft": 16384,
+		"iS": 184017,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/CommunityMeetUPGeorgia\/14352089_508728026005192_6419407062231964593_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/CommunityMeetUPGeorgia\/14352150_508780339333294_665696538552412972_o.jpg": {
+		"ft": 16384,
+		"iS": 251283,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/CommunityMeetUPGeorgia\/14352150_508780339333294_665696538552412972_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/cover-image.jpg": {
+		"ft": 16384,
+		"iS": 339466,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/cover-image.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/images\/data_std.png": {
+		"ft": 32768,
+		"iS": 18550,
+		"oA": 0,
+		"oAP": "\/images\/data_std.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/datafest-1.jpg": {
+		"ft": 16384,
+		"iS": 240838,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/datafest-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/datafest-2.jpg": {
+		"ft": 16384,
+		"iS": 161801,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/datafest-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/images\/dymek_serce.png": {
+		"ft": 32768,
+		"iS": 23149,
+		"oA": 0,
+		"oAP": "\/images\/dymek_serce.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/europa.png": {
+		"ft": 32768,
+		"iS": 250292,
+		"oA": 0,
+		"oAP": "\/images\/europa.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/event-1-1.jpg": {
+		"ft": 16384,
+		"iS": 58933,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/event-1-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/event-2-1.jpg": {
+		"ft": 16384,
+		"iS": 81210,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/event-2-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/event-2-2.jpg": {
+		"ft": 16384,
+		"iS": 68703,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/event-2-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/event-3-1.jpg": {
+		"ft": 16384,
+		"iS": 99949,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/event-3-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/images\/event-3-2.jpg": {
+		"ft": 16384,
+		"iS": 43603,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/event-3-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/images\/event-4-1.jpg": {
+		"ft": 16384,
+		"iS": 90706,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/event-4-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/event-4-2.jpg": {
+		"ft": 16384,
+		"iS": 83111,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/event-4-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/events_duze.png": {
+		"ft": 32768,
+		"iS": 30927,
+		"oA": 0,
+		"oAP": "\/images\/events_duze.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/events_male.png": {
+		"ft": 32768,
+		"iS": 23055,
+		"oA": 0,
+		"oAP": "\/images\/events_male.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/folder.png": {
+		"ft": 32768,
+		"iS": 20283,
+		"oA": 0,
+		"oAP": "\/images\/folder.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/Gamkharashvili.png": {
+		"ft": 32768,
+		"iS": 23031,
+		"oA": 0,
+		"oAP": "\/images\/Gamkharashvili.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/main-image.jpg": {
+		"ft": 16384,
+		"iS": 506658,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/main-image.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/map-assets.jpg": {
+		"ft": 16384,
+		"iS": 71805,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/map-assets.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/images\/menu_biale.png": {
+		"ft": 32768,
+		"iS": 19448,
+		"oA": 0,
+		"oAP": "\/images\/menu_biale.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/menu_cz.png": {
+		"ft": 32768,
+		"iS": 19456,
+		"oA": 0,
+		"oAP": "\/images\/menu_cz.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/11055386_1078678828821062_1674254882854109738_o.jpg": {
+		"ft": 16384,
+		"iS": 120062,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/11055386_1078678828821062_1674254882854109738_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12022416_1080973638591581_7052491707236903254_o.jpg": {
+		"ft": 16384,
+		"iS": 95292,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12022416_1080973638591581_7052491707236903254_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12247746_1079637788725166_1227108420333463578_o.jpg": {
+		"ft": 16384,
+		"iS": 107881,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12247746_1079637788725166_1227108420333463578_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12322595_1078680368820908_6129723999832815967_o.jpg": {
+		"ft": 16384,
+		"iS": 114636,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12322595_1078680368820908_6129723999832815967_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12377994_1079635298725415_2243699379514126581_o.jpg": {
+		"ft": 16384,
+		"iS": 90495,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12377994_1079635298725415_2243699379514126581_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12419336_1078678378821107_8986142034077162747_o.jpg": {
+		"ft": 16384,
+		"iS": 92028,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12419336_1078678378821107_8986142034077162747_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12419347_1079633002058978_1637227966364177425_o.jpg": {
+		"ft": 16384,
+		"iS": 73356,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12419347_1079633002058978_1637227966364177425_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12440241_1080971998591745_3566085008986679454_o.jpg": {
+		"ft": 16384,
+		"iS": 94929,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12440241_1080971998591745_3566085008986679454_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12440261_1078678702154408_3234966193694706987_o.jpg": {
+		"ft": 16384,
+		"iS": 113357,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12440261_1078678702154408_3234966193694706987_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12496146_1079631828725762_2402187216777358851_o.jpg": {
+		"ft": 16384,
+		"iS": 133589,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12496146_1079631828725762_2402187216777358851_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12525088_1079636845391927_7950903853363390413_o.jpg": {
+		"ft": 16384,
+		"iS": 112447,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12525088_1079636845391927_7950903853363390413_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12593769_1080969908591954_6088028128718476052_o.jpg": {
+		"ft": 16384,
+		"iS": 94416,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12593769_1080969908591954_6088028128718476052_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12615186_1079633398725605_4542793970218548009_o.jpg": {
+		"ft": 16384,
+		"iS": 90337,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12615186_1079633398725605_4542793970218548009_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12671873_1079638185391793_6766038055375802462_o.jpg": {
+		"ft": 16384,
+		"iS": 107038,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12671873_1079638185391793_6766038055375802462_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12671987_1080970511925227_8356581328948107023_o.jpg": {
+		"ft": 16384,
+		"iS": 120434,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12671987_1080970511925227_8356581328948107023_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12719512_1078678902154388_3919665067140571860_o.jpg": {
+		"ft": 16384,
+		"iS": 108835,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12719512_1078678902154388_3919665067140571860_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12719583_1080975055258106_5992072372177207253_o.jpg": {
+		"ft": 16384,
+		"iS": 104224,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12719583_1080975055258106_5992072372177207253_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12719608_1080972795258332_1591048379156517980_o.jpg": {
+		"ft": 16384,
+		"iS": 109003,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12719608_1080972795258332_1591048379156517980_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12792245_1080972435258368_3553524835902494010_o.jpg": {
+		"ft": 16384,
+		"iS": 99454,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12792245_1080972435258368_3553524835902494010_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12885716_1080970695258542_8181732385056661115_o.jpg": {
+		"ft": 16384,
+		"iS": 86829,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12885716_1080970695258542_8181732385056661115_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12885874_1079632172059061_7885547512758959509_o.jpg": {
+		"ft": 16384,
+		"iS": 87154,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12885874_1079632172059061_7885547512758959509_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12888511_1080971388591806_98452881259772188_o.jpg": {
+		"ft": 16384,
+		"iS": 126858,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12888511_1080971388591806_98452881259772188_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12890948_1079633995392212_2336692801300238434_o.jpg": {
+		"ft": 16384,
+		"iS": 92346,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12890948_1079633995392212_2336692801300238434_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12890995_1079635982058680_4949796384752872286_o.jpg": {
+		"ft": 16384,
+		"iS": 84294,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12890995_1079635982058680_4949796384752872286_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12891120_1080977318591213_2505360315185392216_o.jpg": {
+		"ft": 16384,
+		"iS": 76972,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12891120_1080977318591213_2505360315185392216_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12891127_1079630682059210_7411306994128976051_o.jpg": {
+		"ft": 16384,
+		"iS": 133758,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12891127_1079630682059210_7411306994128976051_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12891128_1079635978725347_7533997358053521384_o.jpg": {
+		"ft": 16384,
+		"iS": 91308,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12891128_1079635978725347_7533997358053521384_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12891550_1078679115487700_4152475671195620714_o.jpg": {
+		"ft": 16384,
+		"iS": 100426,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12891550_1078679115487700_4152475671195620714_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12891568_1079635828725362_6874358895535721959_o.jpg": {
+		"ft": 16384,
+		"iS": 82961,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12891568_1079635828725362_6874358895535721959_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12891625_1080979425257669_4394556052765323291_o.jpg": {
+		"ft": 16384,
+		"iS": 188633,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12891625_1080979425257669_4394556052765323291_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12891663_1078678685487743_3695720709025406082_o.jpg": {
+		"ft": 16384,
+		"iS": 92855,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12891663_1078678685487743_3695720709025406082_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12891750_1080979598590985_7633328365668048298_o.jpg": {
+		"ft": 16384,
+		"iS": 91960,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12891750_1080979598590985_7633328365668048298_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12898191_1080976178591327_6474524627734710500_o.jpg": {
+		"ft": 16384,
+		"iS": 139812,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12898191_1080976178591327_6474524627734710500_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12898363_1080979208591024_8385792641894549565_o.jpg": {
+		"ft": 16384,
+		"iS": 126755,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12898363_1080979208591024_8385792641894549565_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12900960_1079631598725785_9000900064670750069_o.jpg": {
+		"ft": 16384,
+		"iS": 99328,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12900960_1079631598725785_9000900064670750069_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12901146_1079634988725446_8553005127103828899_o.jpg": {
+		"ft": 16384,
+		"iS": 97583,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12901146_1079634988725446_8553005127103828899_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12901277_1080970888591856_3913358084319572446_o.jpg": {
+		"ft": 16384,
+		"iS": 117977,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12901277_1080970888591856_3913358084319572446_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12901279_1080979005257711_2216793965646031127_o.jpg": {
+		"ft": 16384,
+		"iS": 89589,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12901279_1080979005257711_2216793965646031127_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12901435_1079632112059067_1776297390943853659_o.jpg": {
+		"ft": 16384,
+		"iS": 97139,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12901435_1079632112059067_1776297390943853659_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12901547_1079635728725372_2372450228190787953_o.jpg": {
+		"ft": 16384,
+		"iS": 80495,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12901547_1079635728725372_2372450228190787953_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12909510_1080971585258453_1048760145019346826_o.jpg": {
+		"ft": 16384,
+		"iS": 113184,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12909510_1080971585258453_1048760145019346826_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12909595_1080976735257938_2931784411517116843_o.jpg": {
+		"ft": 16384,
+		"iS": 64409,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12909595_1080976735257938_2931784411517116843_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumPL\/12909656_1080980075257604_6119947831234821661_o.jpg": {
+		"ft": 16384,
+		"iS": 158032,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumPL\/12909656_1080980075257604_6119947831234821661_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumUA\/13458669_10154307506959294_2970633110568007411_o.jpg": {
+		"ft": 16384,
+		"iS": 83524,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumUA\/13458669_10154307506959294_2970633110568007411_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumUA\/13458701_10153676114685108_5769556380895908068_o.jpg": {
+		"ft": 16384,
+		"iS": 243160,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumUA\/13458701_10153676114685108_5769556380895908068_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumUA\/13474957_10154307525379294_5717298166668765018_o.jpg": {
+		"ft": 16384,
+		"iS": 80842,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumUA\/13474957_10154307525379294_5717298166668765018_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumUA\/13475062_10153676102980108_766611114721421085_o.jpg": {
+		"ft": 16384,
+		"iS": 159792,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumUA\/13475062_10153676102980108_766611114721421085_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumUA\/13482963_10153676710790108_7666041474324135238_o.jpg": {
+		"ft": 16384,
+		"iS": 130799,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumUA\/13482963_10153676710790108_7666041474324135238_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumUA\/13483110_10153676756465108_3940778411251284253_o.jpg": {
+		"ft": 16384,
+		"iS": 206181,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumUA\/13483110_10153676756465108_3940778411251284253_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumUA\/13495469_10153676106765108_1774877487664731869_o.jpg": {
+		"ft": 16384,
+		"iS": 88448,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumUA\/13495469_10153676106765108_1774877487664731869_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumUA\/13495487_10154307506689294_4139095457567245077_o.jpg": {
+		"ft": 16384,
+		"iS": 101709,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumUA\/13495487_10154307506689294_4139095457567245077_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumUA\/13497537_10153676117670108_8535446641233612097_o.jpg": {
+		"ft": 16384,
+		"iS": 157909,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumUA\/13497537_10153676117670108_8535446641233612097_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumUA\/13498021_10153676727250108_7711659981105970813_o.jpg": {
+		"ft": 16384,
+		"iS": 97103,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumUA\/13498021_10153676727250108_7711659981105970813_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumUA\/13502577_10154150116800821_244916825827598596_o.jpg": {
+		"ft": 16384,
+		"iS": 206327,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumUA\/13502577_10154150116800821_244916825827598596_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumUA\/13502889_10153676126655108_3658547715921380056_o.jpg": {
+		"ft": 16384,
+		"iS": 93622,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumUA\/13502889_10153676126655108_3658547715921380056_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumUA\/13517521_10154150116020821_4357477090723259349_o.jpg": {
+		"ft": 16384,
+		"iS": 283744,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumUA\/13517521_10154150116020821_4357477090723259349_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumUA\/13517546_10153692998600108_3919404896451785032_o.jpg": {
+		"ft": 16384,
+		"iS": 141866,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumUA\/13517546_10153692998600108_3919404896451785032_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumUA\/13517585_10153676120340108_6339060880406206074_o.jpg": {
+		"ft": 16384,
+		"iS": 111368,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumUA\/13517585_10153676120340108_6339060880406206074_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumUA\/13528171_10153692999455108_8542192551355218358_o.jpg": {
+		"ft": 16384,
+		"iS": 100942,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumUA\/13528171_10153692999455108_8542192551355218358_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/PersonalDemocracyForumUA\/13575830_10153692997625108_5025852007201144170_o.jpg": {
+		"ft": 16384,
+		"iS": 163765,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/PersonalDemocracyForumUA\/13575830_10153692997625108_5025852007201144170_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/point-6.jpg": {
+		"ft": 16384,
+		"iS": 335926,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/point-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/images\/POINT50\/12322612_1065835270142925_9104880064730977568_o.jpg": {
+		"ft": 16384,
+		"iS": 68747,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/POINT50\/12322612_1065835270142925_9104880064730977568_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/POINT50\/13246212_1069154529810999_3622259330293960714_o.jpg": {
+		"ft": 16384,
+		"iS": 291733,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/POINT50\/13246212_1069154529810999_3622259330293960714_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/POINT50\/13267996_1065836136809505_5483522485234165781_o.jpg": {
+		"ft": 16384,
+		"iS": 50874,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/POINT50\/13267996_1065836136809505_5483522485234165781_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/POINT50\/13268180_1065838860142566_1666435041592494663_o.jpg": {
+		"ft": 16384,
+		"iS": 59974,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/POINT50\/13268180_1065838860142566_1666435041592494663_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/POINT50\/13268358_1066496710076781_3299309233372311826_o.jpg": {
+		"ft": 16384,
+		"iS": 78850,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/POINT50\/13268358_1066496710076781_3299309233372311826_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/POINT50\/13268392_1065835173476268_2361338969899428274_o.jpg": {
+		"ft": 16384,
+		"iS": 79304,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/POINT50\/13268392_1065835173476268_2361338969899428274_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/POINT50\/13301337_1069155173144268_1847410556586874335_o.jpg": {
+		"ft": 16384,
+		"iS": 250645,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/POINT50\/13301337_1069155173144268_1847410556586874335_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/POINT50\/13301462_1066499723409813_2107789785926060132_o.jpg": {
+		"ft": 16384,
+		"iS": 60000,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/POINT50\/13301462_1066499723409813_2107789785926060132_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/POINT50\/13301556_1069625399763912_2134911354122010028_o.jpg": {
+		"ft": 16384,
+		"iS": 289615,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/POINT50\/13301556_1069625399763912_2134911354122010028_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/POINT50\/13304990_1065841220142330_2045877976885602835_o.jpg": {
+		"ft": 16384,
+		"iS": 81491,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/POINT50\/13304990_1065841220142330_2045877976885602835_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/POINT50\/13305166_1069155853144200_3944117101778305391_o.jpg": {
+		"ft": 16384,
+		"iS": 159161,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/POINT50\/13305166_1069155853144200_3944117101778305391_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/POINT50\/13305181_1069154803144305_2160461037929874067_o.jpg": {
+		"ft": 16384,
+		"iS": 153778,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/POINT50\/13305181_1069154803144305_2160461037929874067_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/POINT50\/13305195_1069155469810905_7162602452687932871_o.jpg": {
+		"ft": 16384,
+		"iS": 242199,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/POINT50\/13305195_1069155469810905_7162602452687932871_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/POINT50\/13305258_1069625723097213_2815855470518763069_o.jpg": {
+		"ft": 16384,
+		"iS": 236930,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/POINT50\/13305258_1069625723097213_2815855470518763069_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/POINT50\/13308196_1069155373144248_5481017159031621699_o.jpg": {
+		"ft": 16384,
+		"iS": 273204,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/POINT50\/13308196_1069155373144248_5481017159031621699_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/POINT50\/13308523_1069626029763849_8947625444013447887_o.jpg": {
+		"ft": 16384,
+		"iS": 204697,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/POINT50\/13308523_1069626029763849_8947625444013447887_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/POINT50\/13316913_1069625373097248_7536345699010673457_o.jpg": {
+		"ft": 16384,
+		"iS": 433599,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/POINT50\/13316913_1069625373097248_7536345699010673457_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/POINT50\/13320335_1066504306742688_7089128389631438555_o.jpg": {
+		"ft": 16384,
+		"iS": 85337,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/POINT50\/13320335_1066504306742688_7089128389631438555_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/POINT50\/13320342_1065836100142842_8789543250353456321_o.jpg": {
+		"ft": 16384,
+		"iS": 77949,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/POINT50\/13320342_1065836100142842_8789543250353456321_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/POINT50\/13320353_1069154953144290_6644422844522884602_o.jpg": {
+		"ft": 16384,
+		"iS": 269840,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/POINT50\/13320353_1069154953144290_6644422844522884602_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/POINT50\/13320421_1069155989810853_1409295818064560571_o.jpg": {
+		"ft": 16384,
+		"iS": 241514,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/POINT50\/13320421_1069155989810853_1409295818064560571_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/POINT50\/13320909_1069625839763868_7441036347734975079_o.jpg": {
+		"ft": 16384,
+		"iS": 134311,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/POINT50\/13320909_1069625839763868_7441036347734975079_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/POINT50\/13320914_1065835776809541_1015316879504112877_o.jpg": {
+		"ft": 16384,
+		"iS": 53702,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/POINT50\/13320914_1065835776809541_1015316879504112877_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/POINT50\/13320939_1066502703409515_6738214257495870029_o.jpg": {
+		"ft": 16384,
+		"iS": 82499,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/POINT50\/13320939_1066502703409515_6738214257495870029_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/POINT50\/13320973_1069626673097118_930752696073267648_o.jpg": {
+		"ft": 16384,
+		"iS": 484713,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/POINT50\/13320973_1069626673097118_930752696073267648_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/POINT50\/13323211_1065835653476220_1751156099041529490_o.jpg": {
+		"ft": 16384,
+		"iS": 58973,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/POINT50\/13323211_1065835653476220_1751156099041529490_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/POINT50\/13323258_1066499213409864_7109969553566884246_o.jpg": {
+		"ft": 16384,
+		"iS": 81711,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/POINT50\/13323258_1066499213409864_7109969553566884246_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/POINT50\/13323528_1069154779810974_173113484377518309_o.jpg": {
+		"ft": 16384,
+		"iS": 262769,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/POINT50\/13323528_1069154779810974_173113484377518309_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/POINT50\/13323627_1069155956477523_5468721603494467711_o.jpg": {
+		"ft": 16384,
+		"iS": 300702,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/POINT50\/13323627_1069155956477523_5468721603494467711_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/POINT50\/13346103_1069154663144319_4649032449041176847_o.jpg": {
+		"ft": 16384,
+		"iS": 329058,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/POINT50\/13346103_1069154663144319_4649032449041176847_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/POINT50\/13346181_1069626093097176_1055942799094004335_o.jpg": {
+		"ft": 16384,
+		"iS": 133732,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/POINT50\/13346181_1069626093097176_1055942799094004335_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/POINT50\/13350293_1069625229763929_6130791922320585375_o.jpg": {
+		"ft": 16384,
+		"iS": 424603,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/POINT50\/13350293_1069625229763929_6130791922320585375_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/POINT50\/13350454_1069155243144261_7402516042393645695_o.jpg": {
+		"ft": 16384,
+		"iS": 297649,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/POINT50\/13350454_1069155243144261_7402516042393645695_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/public-procurement.jpg": {
+		"ft": 16384,
+		"iS": 111087,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/public-procurement.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/report-icon.png": {
+		"ft": 32768,
+		"iS": 451,
+		"oA": 0,
+		"oAP": "\/images\/report-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/scroll.png": {
+		"ft": 32768,
+		"iS": 19217,
+		"oA": 0,
+		"oAP": "\/images\/scroll.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/Skop.png": {
+		"ft": 32768,
+		"iS": 25115,
+		"oA": 0,
+		"oAP": "\/images\/Skop.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/soc-icon-envelope.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/images\/soc-icon-envelope.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/images\/soc-icon-facebook.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/images\/soc-icon-facebook.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/images\/soc-icon-sluck.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/images\/soc-icon-sluck.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/images\/soc-icon-twitter.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/images\/soc-icon-twitter.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/images\/Sorochan.png": {
+		"ft": 32768,
+		"iS": 22647,
+		"oA": 0,
+		"oAP": "\/images\/Sorochan.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/transparencee-logo-invert.png": {
+		"ft": 32768,
+		"iS": 2582,
+		"oA": 0,
+		"oAP": "\/images\/transparencee-logo-invert.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/transparencee-logo.png": {
+		"ft": 32768,
+		"iS": 3583,
+		"oA": 0,
+		"oAP": "\/images\/transparencee-logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/Valeeva.png": {
+		"ft": 32768,
+		"iS": 25356,
+		"oA": 0,
+		"oAP": "\/images\/Valeeva.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/workshop-gdansk\/aaimg_0946.jpg": {
+		"ft": 16384,
+		"iS": 1680654,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-gdansk\/aaimg_0946.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-gdansk\/aaimg_0994.jpg": {
+		"ft": 16384,
+		"iS": 1835367,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-gdansk\/aaimg_0994.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-gdansk\/aaimg_1063.jpg": {
+		"ft": 16384,
+		"iS": 1622843,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-gdansk\/aaimg_1063.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-gdansk\/aaimg_1167.jpg": {
+		"ft": 16384,
+		"iS": 1491608,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-gdansk\/aaimg_1167.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-gdansk\/aaimg_1179.jpg": {
+		"ft": 16384,
+		"iS": 1767055,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-gdansk\/aaimg_1179.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-gdansk\/aaimg_1233.jpg": {
+		"ft": 16384,
+		"iS": 1777683,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-gdansk\/aaimg_1233.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-gdansk\/aaimg_1236.jpg": {
+		"ft": 16384,
+		"iS": 1603998,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-gdansk\/aaimg_1236.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-gdansk\/aaimg_1273.jpg": {
+		"ft": 16384,
+		"iS": 1877514,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-gdansk\/aaimg_1273.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-gdansk\/aaimg_1284.jpg": {
+		"ft": 16384,
+		"iS": 2032578,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-gdansk\/aaimg_1284.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-gdansk\/aaimg_1351.jpg": {
+		"ft": 16384,
+		"iS": 1790685,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-gdansk\/aaimg_1351.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-gdansk\/aaimg_1395.jpg": {
+		"ft": 16384,
+		"iS": 1881558,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-gdansk\/aaimg_1395.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-gdansk\/aaimg_1424.jpg": {
+		"ft": 16384,
+		"iS": 1809932,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-gdansk\/aaimg_1424.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-gdansk\/img_1256.jpg": {
+		"ft": 16384,
+		"iS": 1570743,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-gdansk\/img_1256.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-icon.png": {
+		"ft": 32768,
+		"iS": 1035,
+		"oA": 0,
+		"oAP": "\/images\/workshop-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/workshop-kyiv\/aimg_0a390.jpg": {
+		"ft": 16384,
+		"iS": 2136987,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-kyiv\/aimg_0a390.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-kyiv\/avbo_7222.jpg": {
+		"ft": 16384,
+		"iS": 8384917,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-kyiv\/avbo_7222.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-kyiv\/avbo_7233.jpg": {
+		"ft": 16384,
+		"iS": 8367991,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-kyiv\/avbo_7233.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-kyiv\/avbo_7242.jpg": {
+		"ft": 16384,
+		"iS": 7939244,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-kyiv\/avbo_7242.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-kyiv\/avbo_7468.jpg": {
+		"ft": 16384,
+		"iS": 7937710,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-kyiv\/avbo_7468.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-kyiv\/avbo_7474-1024x680.jpg": {
+		"ft": 16384,
+		"iS": 83505,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-kyiv\/avbo_7474-1024x680.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-kyiv\/avbo_7627.jpg": {
+		"ft": 16384,
+		"iS": 6679997,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-kyiv\/avbo_7627.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-outcome-icon.png": {
+		"ft": 32768,
+		"iS": 910,
+		"oA": 0,
+		"oAP": "\/images\/workshop-outcome-icon.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/workshop-sarajevo\/img_2047.jpg": {
+		"ft": 16384,
+		"iS": 1101377,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-sarajevo\/img_2047.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-sarajevo\/img_2083.jpg": {
+		"ft": 16384,
+		"iS": 1381830,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-sarajevo\/img_2083.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-sarajevo\/img_2092.jpg": {
+		"ft": 16384,
+		"iS": 1592937,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-sarajevo\/img_2092.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-sarajevo\/img_2120.jpg": {
+		"ft": 16384,
+		"iS": 1301431,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-sarajevo\/img_2120.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-sarajevo\/img_2201.jpg": {
+		"ft": 16384,
+		"iS": 1554679,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-sarajevo\/img_2201.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-sarajevo\/img_2263.jpg": {
+		"ft": 16384,
+		"iS": 1261377,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-sarajevo\/img_2263.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-sarajevo\/img_2269.jpg": {
+		"ft": 16384,
+		"iS": 1456950,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-sarajevo\/img_2269.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-sarajevo\/img_2292.jpg": {
+		"ft": 16384,
+		"iS": 1691567,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-sarajevo\/img_2292.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-warsaw\/aimg_1003.jpg": {
+		"ft": 16384,
+		"iS": 1445995,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-warsaw\/aimg_1003.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-warsaw\/aimg_1006.jpg": {
+		"ft": 16384,
+		"iS": 1431839,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-warsaw\/aimg_1006.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-warsaw\/aimg_1012.jpg": {
+		"ft": 16384,
+		"iS": 1514483,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-warsaw\/aimg_1012.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-warsaw\/aimg_1041.jpg": {
+		"ft": 16384,
+		"iS": 1908290,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-warsaw\/aimg_1041.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-warsaw\/aimg_1043.jpg": {
+		"ft": 16384,
+		"iS": 1588477,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-warsaw\/aimg_1043.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-warsaw\/aimg_1059.jpg": {
+		"ft": 16384,
+		"iS": 1414292,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-warsaw\/aimg_1059.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-warsaw\/aimg_1076.jpg": {
+		"ft": 16384,
+		"iS": 1313238,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-warsaw\/aimg_1076.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/workshop-warsaw\/aimg_1083.jpg": {
+		"ft": 16384,
+		"iS": 1609414,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/workshop-warsaw\/aimg_1083.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/youtube-icon.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/images\/youtube-icon.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/index.php",
+		"oF": 0
+		},
+	"\/js\/jquery-3.1.0.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/jquery-3.1.0.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/jquery.fullpage.extensions.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/jquery.fullpage.extensions.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/jquery.fullPage.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/jquery.fullPage.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/lightgallery-all.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/lightgallery-all.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/lightslider-master\/.editorconfig": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/.editorconfig",
+		"oF": 0
+		},
+	"\/js\/lightslider-master\/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/.gitignore",
+		"oF": 0
+		},
+	"\/js\/lightslider-master\/.jshintrc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/.jshintrc",
+		"oF": 0
+		},
+	"\/js\/lightslider-master\/.travis.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/.travis.yml",
+		"oF": 0
+		},
+	"\/js\/lightslider-master\/bower.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/js\/lightslider-master\/bower-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/js\/lightslider-master\/contributing.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/contributing.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/js\/lightslider-master\/demo\/img\/cS-1.jpg": {
+		"ft": 16384,
+		"iS": 75313,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/demo\/img\/cS-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/lightslider-master\/demo\/img\/cS-10.jpg": {
+		"ft": 16384,
+		"iS": 44814,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/demo\/img\/cS-10.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/lightslider-master\/demo\/img\/cS-11.jpg": {
+		"ft": 16384,
+		"iS": 69804,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/demo\/img\/cS-11.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/lightslider-master\/demo\/img\/cS-12.jpg": {
+		"ft": 16384,
+		"iS": 74347,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/demo\/img\/cS-12.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/lightslider-master\/demo\/img\/cS-13.jpg": {
+		"ft": 16384,
+		"iS": 47166,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/demo\/img\/cS-13.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/lightslider-master\/demo\/img\/cS-14.jpg": {
+		"ft": 16384,
+		"iS": 49018,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/demo\/img\/cS-14.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/lightslider-master\/demo\/img\/cS-15.jpg": {
+		"ft": 16384,
+		"iS": 95190,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/demo\/img\/cS-15.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/lightslider-master\/demo\/img\/cS-2.jpg": {
+		"ft": 16384,
+		"iS": 54033,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/demo\/img\/cS-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/lightslider-master\/demo\/img\/cS-3.jpg": {
+		"ft": 16384,
+		"iS": 101390,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/demo\/img\/cS-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/lightslider-master\/demo\/img\/cS-4.jpg": {
+		"ft": 16384,
+		"iS": 116193,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/demo\/img\/cS-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/lightslider-master\/demo\/img\/cS-5.jpg": {
+		"ft": 16384,
+		"iS": 140891,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/demo\/img\/cS-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/lightslider-master\/demo\/img\/cS-6.jpg": {
+		"ft": 16384,
+		"iS": 110839,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/demo\/img\/cS-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/lightslider-master\/demo\/img\/cS-7.jpg": {
+		"ft": 16384,
+		"iS": 96241,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/demo\/img\/cS-7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/lightslider-master\/demo\/img\/cS-8.jpg": {
+		"ft": 16384,
+		"iS": 79275,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/demo\/img\/cS-8.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/lightslider-master\/demo\/img\/cS-9.jpg": {
+		"ft": 16384,
+		"iS": 57895,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/demo\/img\/cS-9.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/lightslider-master\/demo\/img\/thumb\/cS-1.jpg": {
+		"ft": 16384,
+		"iS": 11553,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/demo\/img\/thumb\/cS-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/lightslider-master\/demo\/img\/thumb\/cS-10.jpg": {
+		"ft": 16384,
+		"iS": 10135,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/demo\/img\/thumb\/cS-10.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/lightslider-master\/demo\/img\/thumb\/cS-11.jpg": {
+		"ft": 16384,
+		"iS": 11502,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/demo\/img\/thumb\/cS-11.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/lightslider-master\/demo\/img\/thumb\/cS-12.jpg": {
+		"ft": 16384,
+		"iS": 11600,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/demo\/img\/thumb\/cS-12.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/lightslider-master\/demo\/img\/thumb\/cS-13.jpg": {
+		"ft": 16384,
+		"iS": 10075,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/demo\/img\/thumb\/cS-13.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/lightslider-master\/demo\/img\/thumb\/cS-14.jpg": {
+		"ft": 16384,
+		"iS": 10710,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/demo\/img\/thumb\/cS-14.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/lightslider-master\/demo\/img\/thumb\/cS-15.jpg": {
+		"ft": 16384,
+		"iS": 11862,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/demo\/img\/thumb\/cS-15.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/lightslider-master\/demo\/img\/thumb\/cS-16.jpg": {
+		"ft": 16384,
+		"iS": 11862,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/demo\/img\/thumb\/cS-16.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/lightslider-master\/demo\/img\/thumb\/cS-2.jpg": {
+		"ft": 16384,
+		"iS": 10487,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/demo\/img\/thumb\/cS-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/lightslider-master\/demo\/img\/thumb\/cS-3.jpg": {
+		"ft": 16384,
+		"iS": 11566,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/demo\/img\/thumb\/cS-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/lightslider-master\/demo\/img\/thumb\/cS-4.jpg": {
+		"ft": 16384,
+		"iS": 18870,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/demo\/img\/thumb\/cS-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/lightslider-master\/demo\/img\/thumb\/cS-5.jpg": {
+		"ft": 16384,
+		"iS": 13195,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/demo\/img\/thumb\/cS-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/lightslider-master\/demo\/img\/thumb\/cS-6.jpg": {
+		"ft": 16384,
+		"iS": 12761,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/demo\/img\/thumb\/cS-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/lightslider-master\/demo\/img\/thumb\/cS-7.jpg": {
+		"ft": 16384,
+		"iS": 12406,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/demo\/img\/thumb\/cS-7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/lightslider-master\/demo\/img\/thumb\/cS-8.jpg": {
+		"ft": 16384,
+		"iS": 11854,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/demo\/img\/thumb\/cS-8.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/lightslider-master\/demo\/img\/thumb\/cS-9.jpg": {
+		"ft": 16384,
+		"iS": 10684,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/demo\/img\/thumb\/cS-9.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/lightslider-master\/demo\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/demo\/index.html",
+		"oF": 0
+		},
+	"\/js\/lightslider-master\/dist\/css\/lightslider.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/dist\/css\/lightslider-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/js\/lightslider-master\/dist\/css\/lightslider.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/dist\/css\/lightslider.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/js\/lightslider-master\/dist\/img\/controls.png": {
+		"ft": 32768,
+		"iS": 2241,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/dist\/img\/controls.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/lightslider-master\/dist\/js\/lightslider.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/dist\/js\/lightslider-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/lightslider-master\/dist\/js\/lightslider.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/dist\/js\/lightslider.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/lightslider-master\/Gruntfile.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/Gruntfile-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/lightslider-master\/lightslider.jquery.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/js\/lightslider-master\/lightslider.jquery-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/js\/lightslider-master\/package.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/js\/lightslider-master\/package-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/js\/lightslider-master\/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/js\/lightslider-master\/src\/css\/lightslider.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/src\/css\/lightslider-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/js\/lightslider-master\/src\/img\/controls.png": {
+		"ft": 32768,
+		"iS": 2241,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/src\/img\/controls.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/lightslider-master\/src\/js\/.jshintrc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/src\/js\/.jshintrc",
+		"oF": 0
+		},
+	"\/js\/lightslider-master\/src\/js\/lightslider.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/src\/js\/lightslider-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/lightslider-master\/test\/.jshintrc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/test\/.jshintrc",
+		"oF": 0
+		},
+	"\/js\/lightslider-master\/test\/lightslider.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/test\/lightslider.html",
+		"oF": 0
+		},
+	"\/js\/lightslider-master\/test\/lightslider_test.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/lightslider-master\/test\/lightslider_test-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/script-ck.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/script-ck-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/script-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/script-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/script.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/script-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master.zip",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/.gitignore",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/.nojekyll": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/.nojekyll",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/.travis.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/.travis.yml",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/bower.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/js\/ScrollMagic-master\/bower-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/js\/ScrollMagic-master\/CHANGELOG.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/CHANGELOG.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/js\/ScrollMagic-master\/CONTRIBUTING.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/CONTRIBUTING.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/js\/ScrollMagic-master\/css\/demo.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/css\/demo-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/js\/ScrollMagic-master\/css\/examples.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/css\/examples-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/js\/ScrollMagic-master\/css\/normalize.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/css\/normalize-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/js\/ScrollMagic-master\/css\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/css\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/js\/ScrollMagic-master\/dev\/build\/banner.min.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/build\/banner.min.txt",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/build\/banner.regular.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/build\/banner.regular.txt",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/build\/config.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/build\/config-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/js\/ScrollMagic-master\/dev\/build\/filesize.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/build\/filesize-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/build\/jsdoc-generator.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/build\/jsdoc-generator-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/build\/logger.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/build\/logger-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/jsdoc.conf.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/jsdoc.conf-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/static\/ScrollScene.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/static\/ScrollScene.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/publish.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/publish-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/img\/glyphicons-halflings-white.png": {
+		"ft": 32768,
+		"iS": 8777,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/img\/glyphicons-halflings-white.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/img\/glyphicons-halflings.png": {
+		"ft": 32768,
+		"iS": 12799,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/img\/glyphicons-halflings.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/scripts\/bootstrap-dropdown.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/scripts\/bootstrap-dropdown-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/scripts\/bootstrap-tab.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/scripts\/bootstrap-tab-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/scripts\/jquery.localScroll.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/scripts\/jquery.localScroll-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/scripts\/jquery.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/scripts\/jquery.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/scripts\/jquery.scrollTo.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/scripts\/jquery.scrollTo-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/scripts\/jquery.sunlight.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/scripts\/jquery.sunlight-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/scripts\/prettify\/jquery.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/scripts\/prettify\/jquery.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/scripts\/prettify\/lang-css.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/scripts\/prettify\/lang-css-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/scripts\/prettify\/prettify.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/scripts\/prettify\/prettify-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/scripts\/sunlight-plugin.doclinks.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/scripts\/sunlight-plugin.doclinks-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/scripts\/sunlight-plugin.linenumbers.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/scripts\/sunlight-plugin.linenumbers-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/scripts\/sunlight-plugin.menu.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/scripts\/sunlight-plugin.menu-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/scripts\/sunlight.javascript.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/scripts\/sunlight.javascript-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/scripts\/sunlight.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/scripts\/sunlight-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/scripts\/toc.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/scripts\/toc-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/scripts\/URI.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/scripts\/URI-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/styles\/prettify-tomorrow.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/styles\/prettify-tomorrow-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/styles\/site.cosmo.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/styles\/site.cosmo-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/styles\/sunlight.default.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/static\/styles\/sunlight.default-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/tmpl\/container.tmpl": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/tmpl\/container.tmpl",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/tmpl\/details.tmpl": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/tmpl\/details.tmpl",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/tmpl\/example.tmpl": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/tmpl\/example.tmpl",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/tmpl\/examples.tmpl": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/tmpl\/examples.tmpl",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/tmpl\/exceptions.tmpl": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/tmpl\/exceptions.tmpl",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/tmpl\/fires.tmpl": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/tmpl\/fires.tmpl",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/tmpl\/layout.tmpl": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/tmpl\/layout.tmpl",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/tmpl\/mainpage.tmpl": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/tmpl\/mainpage.tmpl",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/tmpl\/members.tmpl": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/tmpl\/members.tmpl",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/tmpl\/method.tmpl": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/tmpl\/method.tmpl",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/tmpl\/params.tmpl": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/tmpl\/params.tmpl",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/tmpl\/properties.tmpl": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/tmpl\/properties.tmpl",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/tmpl\/returns.tmpl": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/tmpl\/returns.tmpl",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/tmpl\/sections.tmpl": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/tmpl\/sections.tmpl",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/tmpl\/source.tmpl": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/tmpl\/source.tmpl",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/tmpl\/tutorial.tmpl": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/tmpl\/tutorial.tmpl",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/docs\/template\/tmpl\/type.tmpl": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/docs\/template\/tmpl\/type.tmpl",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/src\/plugins.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/src\/plugins-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/js\/ScrollMagic-master\/dev\/src\/plugins\/animation.gsap.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/src\/plugins\/animation.gsap-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/src\/plugins\/animation.velocity.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/src\/plugins\/animation.velocity-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/src\/plugins\/debug.addIndicators.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/src\/plugins\/debug.addIndicators-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/src\/plugins\/jquery.ScrollMagic.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/src\/plugins\/jquery.ScrollMagic-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/src\/ScrollMagic.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/src\/ScrollMagic-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/src\/ScrollMagic\/_util.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/src\/ScrollMagic\/_util-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/src\/ScrollMagic\/Controller.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/src\/ScrollMagic\/Controller-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/src\/ScrollMagic\/Controller\/_static.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/src\/ScrollMagic\/Controller\/_static-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/src\/ScrollMagic\/Event.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/src\/ScrollMagic\/Event-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/src\/ScrollMagic\/Scene.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/src\/ScrollMagic\/Scene-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/src\/ScrollMagic\/Scene\/_static.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/src\/ScrollMagic\/Scene\/_static-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/src\/ScrollMagic\/Scene\/core.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/src\/ScrollMagic\/Scene\/core-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/src\/ScrollMagic\/Scene\/event-management.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/src\/ScrollMagic\/Scene\/event-management-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/src\/ScrollMagic\/Scene\/feature-classToggles.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/src\/ScrollMagic\/Scene\/feature-classToggles-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/src\/ScrollMagic\/Scene\/feature-pinning.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/src\/ScrollMagic\/Scene\/feature-pinning-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/src\/ScrollMagic\/Scene\/getters-setters.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/src\/ScrollMagic\/Scene\/getters-setters-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/src\/ScrollMagic\/Scene\/update-params.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/src\/ScrollMagic\/Scene\/update-params-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/tests\/fixtures\/container-scroll.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/tests\/fixtures\/container-scroll.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/tests\/karma.conf.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/tests\/karma.conf-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/tests\/karma\/jasmine.matchers.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/tests\/karma\/jasmine.matchers-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/tests\/karma\/vendor\/jasmine-jquery.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/tests\/karma\/vendor\/jasmine-jquery-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/tests\/main.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/tests\/main-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/tests\/spec\/_util.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/tests\/spec\/_util-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/tests\/spec\/controller.events.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/tests\/spec\/controller.events-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/tests\/spec\/controller.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/tests\/spec\/controller-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/tests\/spec\/plugins\/animation.gsap.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/tests\/spec\/plugins\/animation.gsap-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/tests\/spec\/plugins\/animation.velocity.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/tests\/spec\/plugins\/animation.velocity-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/tests\/spec\/plugins\/debug.addIndicators.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/tests\/spec\/plugins\/debug.addIndicators-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/tests\/spec\/plugins\/jquery.ScrollMagic.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/tests\/spec\/plugins\/jquery.ScrollMagic-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/tests\/spec\/scene.events.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/tests\/spec\/scene.events-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/tests\/spec\/scene.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/tests\/spec\/scene-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/dev\/todo.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/dev\/todo.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/animation.GSAP.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/animation.GSAP.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/animation.Velocity.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/animation.Velocity.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/classes.list.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/classes.list.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/debug.addIndicators.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/debug.addIndicators.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/framework.jQuery.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/framework.jQuery.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/img\/glyphicons-halflings-white.png": {
+		"ft": 32768,
+		"iS": 8777,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/img\/glyphicons-halflings-white.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/docs\/img\/glyphicons-halflings.png": {
+		"ft": 32768,
+		"iS": 12799,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/img\/glyphicons-halflings.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/docs\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/index.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/mixins.list.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/mixins.list.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/namespaces.list.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/namespaces.list.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/plugins_animation.gsap.js.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/plugins_animation.gsap.js.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/plugins_animation.velocity.js.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/plugins_animation.velocity.js.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/plugins_debug.addIndicators.js.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/plugins_debug.addIndicators.js.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/plugins_jquery.ScrollMagic.js.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/plugins_jquery.ScrollMagic.js.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/scripts\/bootstrap-dropdown.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/scripts\/bootstrap-dropdown-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/scripts\/bootstrap-tab.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/scripts\/bootstrap-tab-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/scripts\/jquery.localScroll.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/scripts\/jquery.localScroll-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/scripts\/jquery.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/scripts\/jquery.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/scripts\/jquery.scrollTo.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/scripts\/jquery.scrollTo-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/scripts\/jquery.sunlight.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/scripts\/jquery.sunlight-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/scripts\/prettify\/jquery.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/scripts\/prettify\/jquery.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/scripts\/prettify\/lang-css.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/scripts\/prettify\/lang-css-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/scripts\/prettify\/prettify.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/scripts\/prettify\/prettify-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/scripts\/sunlight-plugin.doclinks.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/scripts\/sunlight-plugin.doclinks-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/scripts\/sunlight-plugin.linenumbers.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/scripts\/sunlight-plugin.linenumbers-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/scripts\/sunlight-plugin.menu.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/scripts\/sunlight-plugin.menu-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/scripts\/sunlight.javascript.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/scripts\/sunlight.javascript-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/scripts\/sunlight.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/scripts\/sunlight-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/scripts\/toc.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/scripts\/toc-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/scripts\/URI.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/scripts\/URI-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/ScrollMagic.Controller.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/ScrollMagic.Controller.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/ScrollMagic.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/ScrollMagic.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/ScrollMagic.js.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/ScrollMagic.js.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/ScrollMagic.Scene.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/ScrollMagic.Scene.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/ScrollMagic__util.js.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/ScrollMagic__util.js.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/ScrollMagic_Controller.js.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/ScrollMagic_Controller.js.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/ScrollMagic_Scene.js.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/ScrollMagic_Scene.js.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/ScrollMagic_Scene_core.js.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/ScrollMagic_Scene_core.js.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/ScrollMagic_Scene_event-management.js.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/ScrollMagic_Scene_event-management.js.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/ScrollMagic_Scene_feature-classToggles.js.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/ScrollMagic_Scene_feature-classToggles.js.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/ScrollMagic_Scene_feature-pinning.js.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/ScrollMagic_Scene_feature-pinning.js.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/ScrollMagic_Scene_getters-setters.js.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/ScrollMagic_Scene_getters-setters.js.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/ScrollScene.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/ScrollScene.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/docs\/styles\/prettify-tomorrow.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/styles\/prettify-tomorrow-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/js\/ScrollMagic-master\/docs\/styles\/site.cosmo.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/styles\/site.cosmo-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/js\/ScrollMagic-master\/docs\/styles\/sunlight.default.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/docs\/styles\/sunlight.default-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/js\/ScrollMagic-master\/examples\/advanced\/advanced_tweening.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/examples\/advanced\/advanced_tweening.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/examples\/advanced\/anchor_link_scrolling.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/examples\/advanced\/anchor_link_scrolling.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/examples\/advanced\/animate_css.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/examples\/advanced\/animate_css.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/examples\/advanced\/custom_containers.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/examples\/advanced\/custom_containers.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/examples\/advanced\/infinite_scrolling.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/examples\/advanced\/infinite_scrolling.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/examples\/advanced\/mobile_basic.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/examples\/advanced\/mobile_basic.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/examples\/advanced\/parallax_scrolling.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/examples\/advanced\/parallax_scrolling.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/examples\/advanced\/parallax_sections.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/examples\/advanced\/parallax_sections.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/examples\/advanced\/section_slides_manual.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/examples\/advanced\/section_slides_manual.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/examples\/advanced\/section_wipes_manual.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/examples\/advanced\/section_wipes_manual.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/examples\/advanced\/svg_drawing.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/examples\/advanced\/svg_drawing.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/examples\/basic\/class_toggles.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/examples\/basic\/class_toggles.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/examples\/basic\/custom_actions.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/examples\/basic\/custom_actions.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/examples\/basic\/debugging.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/examples\/basic\/debugging.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/examples\/basic\/going_horizontal.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/examples\/basic\/going_horizontal.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/examples\/basic\/responsive_duration.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/examples\/basic\/responsive_duration.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/examples\/basic\/scene_manipulation.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/examples\/basic\/scene_manipulation.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/examples\/basic\/section_wipes_natural.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/examples\/basic\/section_wipes_natural.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/examples\/basic\/simple_pinning.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/examples\/basic\/simple_pinning.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/examples\/basic\/simple_tweening.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/examples\/basic\/simple_tweening.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/examples\/basic\/simple_velocity.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/examples\/basic\/simple_velocity.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/examples\/expert\/bezier_path_animation.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/examples\/expert\/bezier_path_animation.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/examples\/expert\/callback_duration.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/examples\/expert\/callback_duration.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/examples\/expert\/cascading_pins.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/examples\/expert\/cascading_pins.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/examples\/expert\/image_sequence.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/examples\/expert\/image_sequence.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/examples\/expert\/manipulating_tweens.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/examples\/expert\/manipulating_tweens.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/examples\/expert\/mobile_advanced.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/examples\/expert\/mobile_advanced.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/examples\/expert\/multiple_scroll_directions.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/examples\/expert\/multiple_scroll_directions.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/examples\/expert\/removing_and_destroying.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/examples\/expert\/removing_and_destroying.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/examples\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/examples\/index.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/gulpfile.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/gulpfile-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/img\/apple-touch-icon-precomposed.png": {
+		"ft": 32768,
+		"iS": 8823,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/apple-touch-icon-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/demo_arrow_scroll.png": {
+		"ft": 32768,
+		"iS": 148,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/demo_arrow_scroll.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/demo_arrow_skip.png": {
+		"ft": 32768,
+		"iS": 167,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/demo_arrow_skip.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/demo_bubble.png": {
+		"ft": 32768,
+		"iS": 1385,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/demo_bubble.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/demo_bunny.png": {
+		"ft": 32768,
+		"iS": 10129,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/demo_bunny.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/demo_bunny_wink.png": {
+		"ft": 32768,
+		"iS": 601,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/demo_bunny_wink.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/demo_fb_preview.jpg": {
+		"ft": 16384,
+		"iS": 11713,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/demo_fb_preview.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/demo_floor.png": {
+		"ft": 32768,
+		"iS": 3588,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/demo_floor.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/demo_hat.png": {
+		"ft": 32768,
+		"iS": 7376,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/demo_hat.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/demo_hat_front.png": {
+		"ft": 32768,
+		"iS": 6651,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/demo_hat_front.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/demo_parallax_bg.png": {
+		"ft": 32768,
+		"iS": 65018,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/demo_parallax_bg.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/demo_parallax_shadow_bottom.png": {
+		"ft": 32768,
+		"iS": 80,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/demo_parallax_shadow_bottom.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/demo_parallax_shadow_top.png": {
+		"ft": 32768,
+		"iS": 91,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/demo_parallax_shadow_top.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/demo_spark1.png": {
+		"ft": 32768,
+		"iS": 92,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/demo_spark1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/demo_spark2.png": {
+		"ft": 32768,
+		"iS": 139,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/demo_spark2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/demo_spark3.png": {
+		"ft": 32768,
+		"iS": 182,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/demo_spark3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/demo_spark4.png": {
+		"ft": 32768,
+		"iS": 235,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/demo_spark4.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/demo_spark5.png": {
+		"ft": 32768,
+		"iS": 318,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/demo_spark5.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/demo_spark6.png": {
+		"ft": 32768,
+		"iS": 447,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/demo_spark6.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/demo_tophat.png": {
+		"ft": 32768,
+		"iS": 43506,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/demo_tophat.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/demo_wand.png": {
+		"ft": 32768,
+		"iS": 1389,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/demo_wand.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/example_bezier.png": {
+		"ft": 32768,
+		"iS": 1522,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/example_bezier.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/example_bg_h.png": {
+		"ft": 32768,
+		"iS": 72,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/example_bg_h.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/example_bg_spacer_h.gif": {
+		"ft": 4194304,
+		"iS": 76,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/example_bg_spacer_h.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/js\/ScrollMagic-master\/img\/example_bg_spacer_v.gif": {
+		"ft": 4194304,
+		"iS": 75,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/example_bg_spacer_v.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/js\/ScrollMagic-master\/img\/example_bg_v.png": {
+		"ft": 32768,
+		"iS": 73,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/example_bg_v.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/example_imagesequence_01.png": {
+		"ft": 32768,
+		"iS": 16231,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/example_imagesequence_01.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/example_imagesequence_02.png": {
+		"ft": 32768,
+		"iS": 12192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/example_imagesequence_02.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/example_imagesequence_03.png": {
+		"ft": 32768,
+		"iS": 12287,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/example_imagesequence_03.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/example_imagesequence_04.png": {
+		"ft": 32768,
+		"iS": 14272,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/example_imagesequence_04.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/example_imagesequence_05.png": {
+		"ft": 32768,
+		"iS": 14476,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/example_imagesequence_05.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/example_imagesequence_06.png": {
+		"ft": 32768,
+		"iS": 17562,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/example_imagesequence_06.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/example_imagesequence_07.png": {
+		"ft": 32768,
+		"iS": 18317,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/example_imagesequence_07.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/example_loading.gif": {
+		"ft": 4194304,
+		"iS": 433,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/example_loading.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/js\/ScrollMagic-master\/img\/example_parallax_bg1.png": {
+		"ft": 32768,
+		"iS": 4445,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/example_parallax_bg1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/example_parallax_bg2.png": {
+		"ft": 32768,
+		"iS": 1024,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/example_parallax_bg2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/example_parallax_bg3.png": {
+		"ft": 32768,
+		"iS": 4532,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/example_parallax_bg3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/example_parallax_l1.gif": {
+		"ft": 4194304,
+		"iS": 1454,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/example_parallax_l1.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/js\/ScrollMagic-master\/img\/example_parallax_l2.png": {
+		"ft": 32768,
+		"iS": 5862,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/example_parallax_l2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/example_parallax_l3.gif": {
+		"ft": 4194304,
+		"iS": 915,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/example_parallax_l3.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/js\/ScrollMagic-master\/img\/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/favicon.ico",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/img\/madewith_alfred.jpg": {
+		"ft": 16384,
+		"iS": 18247,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/madewith_alfred.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/madewith_appliancetec.jpg": {
+		"ft": 16384,
+		"iS": 31198,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/madewith_appliancetec.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/madewith_buntspenden.jpg": {
+		"ft": 16384,
+		"iS": 19922,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/madewith_buntspenden.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/madewith_flyacts.jpg": {
+		"ft": 16384,
+		"iS": 18595,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/madewith_flyacts.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/madewith_framescollection.jpg": {
+		"ft": 16384,
+		"iS": 42210,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/madewith_framescollection.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/madewith_googlecardboard.jpg": {
+		"ft": 16384,
+		"iS": 18996,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/madewith_googlecardboard.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/madewith_scotchdigital.jpg": {
+		"ft": 16384,
+		"iS": 14252,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/madewith_scotchdigital.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/madewith_sebastienlempens.jpg": {
+		"ft": 16384,
+		"iS": 19508,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/madewith_sebastienlempens.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/madewith_tink.jpg": {
+		"ft": 16384,
+		"iS": 31137,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/madewith_tink.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/img\/madewith_viko.jpg": {
+		"ft": 16384,
+		"iS": 37166,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/img\/madewith_viko.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/js\/ScrollMagic-master\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/index.html",
+		"oF": 0
+		},
+	"\/js\/ScrollMagic-master\/js\/demo.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/js\/demo-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/js\/examples.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/js\/examples-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/js\/lib\/greensock\/easing\/EasePack.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/js\/lib\/greensock\/easing\/EasePack.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/js\/lib\/greensock\/jquery.gsap.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/js\/lib\/greensock\/jquery.gsap.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/js\/lib\/greensock\/plugins\/AttrPlugin.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/js\/lib\/greensock\/plugins\/AttrPlugin.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/js\/lib\/greensock\/plugins\/BezierPlugin.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/js\/lib\/greensock\/plugins\/BezierPlugin.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/js\/lib\/greensock\/plugins\/ColorPropsPlugin.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/js\/lib\/greensock\/plugins\/ColorPropsPlugin.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/js\/lib\/greensock\/plugins\/CSSPlugin.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/js\/lib\/greensock\/plugins\/CSSPlugin.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/js\/lib\/greensock\/plugins\/CSSRulePlugin.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/js\/lib\/greensock\/plugins\/CSSRulePlugin.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/js\/lib\/greensock\/plugins\/DirectionalRotationPlugin.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/js\/lib\/greensock\/plugins\/DirectionalRotationPlugin.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/js\/lib\/greensock\/plugins\/EaselPlugin.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/js\/lib\/greensock\/plugins\/EaselPlugin.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/js\/lib\/greensock\/plugins\/EndArrayPlugin.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/js\/lib\/greensock\/plugins\/EndArrayPlugin.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/js\/lib\/greensock\/plugins\/KineticPlugin.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/js\/lib\/greensock\/plugins\/KineticPlugin.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/js\/lib\/greensock\/plugins\/RaphaelPlugin.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/js\/lib\/greensock\/plugins\/RaphaelPlugin.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/js\/lib\/greensock\/plugins\/RoundPropsPlugin.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/js\/lib\/greensock\/plugins\/RoundPropsPlugin.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/js\/lib\/greensock\/plugins\/ScrollToPlugin.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/js\/lib\/greensock\/plugins\/ScrollToPlugin.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/js\/lib\/greensock\/plugins\/TextPlugin.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/js\/lib\/greensock\/plugins\/TextPlugin.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/js\/lib\/greensock\/TimelineLite.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/js\/lib\/greensock\/TimelineLite.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/js\/lib\/greensock\/TimelineMax.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/js\/lib\/greensock\/TimelineMax.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/js\/lib\/greensock\/TweenLite.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/js\/lib\/greensock\/TweenLite.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/js\/lib\/greensock\/TweenMax.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/js\/lib\/greensock\/TweenMax.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/js\/lib\/greensock\/utils\/Draggable.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/js\/lib\/greensock\/utils\/Draggable.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/js\/lib\/highlight.pack.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/js\/lib\/highlight.pack-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/js\/lib\/iscroll-probe.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/js\/lib\/iscroll-probe-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/js\/lib\/jquery.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/js\/lib\/jquery.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/js\/lib\/modernizr.custom.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/js\/lib\/modernizr.custom.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/js\/lib\/velocity.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/js\/lib\/velocity.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/js\/tracking.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/js\/tracking-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/LICENSE.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/LICENSE.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/js\/ScrollMagic-master\/package.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/js\/ScrollMagic-master\/package-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/js\/ScrollMagic-master\/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/js\/ScrollMagic-master\/scrollmagic\/minified\/plugins\/animation.gsap.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/scrollmagic\/minified\/plugins\/animation.gsap.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/scrollmagic\/minified\/plugins\/animation.velocity.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/scrollmagic\/minified\/plugins\/animation.velocity.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/scrollmagic\/minified\/plugins\/debug.addIndicators.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/scrollmagic\/minified\/plugins\/debug.addIndicators.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/scrollmagic\/minified\/plugins\/jquery.ScrollMagic.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/scrollmagic\/minified\/plugins\/jquery.ScrollMagic.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/scrollmagic\/minified\/ScrollMagic.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/scrollmagic\/minified\/ScrollMagic.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/scrollmagic\/uncompressed\/plugins\/animation.gsap.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/scrollmagic\/uncompressed\/plugins\/animation.gsap-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/scrollmagic\/uncompressed\/plugins\/animation.velocity.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/scrollmagic\/uncompressed\/plugins\/animation.velocity-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/scrollmagic\/uncompressed\/plugins\/debug.addIndicators.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/scrollmagic\/uncompressed\/plugins\/debug.addIndicators-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/scrollmagic\/uncompressed\/plugins\/jquery.ScrollMagic.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/scrollmagic\/uncompressed\/plugins\/jquery.ScrollMagic-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/ScrollMagic-master\/scrollmagic\/uncompressed\/ScrollMagic.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/ScrollMagic-master\/scrollmagic\/uncompressed\/ScrollMagic-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/less\/initials.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/less\/initials.css",
+		"oF": 0,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/less\/lightslider.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/less\/lightslider.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/less\/reset.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/less\/reset.css",
+		"oF": 0,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/less\/style.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/css\/style.css",
+		"oF": 2,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/less\/transitions.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/less\/transitions.css",
+		"oF": 0,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/moduls\/header.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/header.php",
+		"oF": 0
+		},
+	"\/moduls\/photos-1.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/photos-1.php",
+		"oF": 0
+		},
+	"\/moduls\/photos-2.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/photos-2.php",
+		"oF": 0
+		},
+	"\/moduls\/photos-3.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/photos-3.php",
+		"oF": 0
+		},
+	"\/moduls\/photos-4.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/photos-4.php",
+		"oF": 0
+		},
+	"\/moduls\/photos-datafest-2017.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/photos-datafest-2017.php",
+		"oF": 0
+		},
+	"\/moduls\/photos-gdansk.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/photos-gdansk.php",
+		"oF": 0
+		},
+	"\/moduls\/photos-kyiv.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/photos-kyiv.php",
+		"oF": 0
+		},
+	"\/moduls\/photos-PDF-2017.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/photos-PDF-2017.php",
+		"oF": 0
+		},
+	"\/moduls\/photos-point-2017.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/photos-point-2017.php",
+		"oF": 0
+		},
+	"\/moduls\/photos-sarajevo.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/photos-sarajevo.php",
+		"oF": 0
+		},
+	"\/moduls\/photos-warsaw.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/photos-warsaw.php",
+		"oF": 0
+		},
+	"\/moduls\/section-assets-declarations.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/section-assets-declarations.php",
+		"oF": 0
+		},
+	"\/moduls\/section-build.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/section-build.php",
+		"oF": 0
+		},
+	"\/moduls\/section-bye.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/section-bye.php",
+		"oF": 0
+		},
+	"\/moduls\/section-civic-tech.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/section-civic-tech.php",
+		"oF": 0
+		},
+	"\/moduls\/section-community-voices.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/section-community-voices.php",
+		"oF": 0
+		},
+	"\/moduls\/section-cover.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/section-cover.php",
+		"oF": 0
+		},
+	"\/moduls\/section-event-1.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/section-event-1.php",
+		"oF": 0
+		},
+	"\/moduls\/section-event-2.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/section-event-2.php",
+		"oF": 0
+		},
+	"\/moduls\/section-event-3.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/section-event-3.php",
+		"oF": 0
+		},
+	"\/moduls\/section-event-4.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/section-event-4.php",
+		"oF": 0
+		},
+	"\/moduls\/section-events.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/section-events.php",
+		"oF": 0
+		},
+	"\/moduls\/section-intro.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/section-intro.php",
+		"oF": 0
+		},
+	"\/moduls\/section-konsultimi-publik.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/section-konsultimi-publik.php",
+		"oF": 0
+		},
+	"\/moduls\/section-moonship.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/section-moonship.php",
+		"oF": 0
+		},
+	"\/moduls\/section-public-procurement.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/section-public-procurement.php",
+		"oF": 0
+		},
+	"\/moduls\/section-research.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/section-research.php",
+		"oF": 0
+		},
+	"\/moduls\/section-social-media-scraper.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/section-social-media-scraper.php",
+		"oF": 0
+		},
+	"\/moduls\/section-ted2.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/section-ted2.php",
+		"oF": 0
+		},
+	"\/moduls\/section-thankyou.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/section-thankyou.php",
+		"oF": 0
+		},
+	"\/moduls\/section-whats-next.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/section-whats-next.php",
+		"oF": 0
+		},
+	"\/moduls\/section-working-groups-outcomes.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/section-working-groups-outcomes.php",
+		"oF": 0
+		},
+	"\/moduls\/section-working-groups.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/section-working-groups.php",
+		"oF": 0
+		},
+	"\/moduls\/section-workshops-overview.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/section-workshops-overview.php",
+		"oF": 0
+		},
+	"\/moduls\/section-workshops.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/moduls\/section-workshops.php",
+		"oF": 0
+		}
+	},
+"hooks": [
+	],
+"manualImportLinks": {
+	},
+"projectAttributes": {
+	"creationDate": 545659641,
+	"displayValue": "transparencee 2017",
+	"displayValueWasSetByUser": 0,
+	"iconImageName": "\/js\/ScrollMagic-master\/img\/apple-touch-icon-precomposed.png",
+	"iconImageWasSetByUser": 0
+	},
+"projectSettings": {
+	"abortBuildOnError": 1,
+	"alwaysUseExternalServer": 1,
+	"animateCSSInjections": 1,
+	"autoBuildNewItems": 1,
+	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoprefixerEnableIEGrid": 0,
+	"babelAuxiliaryCommentAfter": "",
+	"babelAuxiliaryCommentBefore": "",
+	"babelConfigFileHandlingType": 0,
+	"babelCustomPluginsList": "",
+	"babelCustomPresetsList": "",
+	"babelInsertModuleIDs": 0,
+	"babelModuleID": "",
+	"babelNoComments": 0,
+	"babelPlugins": {
+		"async-generator-functions": {
+			"active": 0
+			},
+		"async-to-generator": {
+			"active": 0
+			},
+		"async-to-module-method": {
+			"active": 0
+			},
+		"class-properties": {
+			"active": 0
+			},
+		"decorators": {
+			"active": 0
+			},
+		"decorators-legacy": {
+			"active": 0
+			},
+		"do-expressions": {
+			"active": 0
+			},
+		"es2015-arrow-functions": {
+			"active": 0
+			},
+		"es2015-block-scoped-functions": {
+			"active": 0
+			},
+		"es2015-block-scoping": {
+			"active": 0
+			},
+		"es2015-classes": {
+			"active": 0
+			},
+		"es2015-computed-properties": {
+			"active": 0
+			},
+		"es2015-constants": {
+			"active": 0
+			},
+		"es2015-destructuring": {
+			"active": 0
+			},
+		"es2015-duplicate-keys": {
+			"active": 0
+			},
+		"es2015-for-of": {
+			"active": 0
+			},
+		"es2015-function-name": {
+			"active": 0
+			},
+		"es2015-literals": {
+			"active": 0
+			},
+		"es2015-modules-amd": {
+			"active": 0
+			},
+		"es2015-modules-commonjs": {
+			"active": 0
+			},
+		"es2015-modules-systemjs": {
+			"active": 0
+			},
+		"es2015-modules-umd": {
+			"active": 0
+			},
+		"es2015-object-super": {
+			"active": 0
+			},
+		"es2015-parameters": {
+			"active": 0
+			},
+		"es2015-shorthand-properties": {
+			"active": 0
+			},
+		"es2015-spread": {
+			"active": 0
+			},
+		"es2015-sticky-regex": {
+			"active": 0
+			},
+		"es2015-template-literals": {
+			"active": 0
+			},
+		"es2015-typeof-symbol": {
+			"active": 0
+			},
+		"es2015-unicode-regex": {
+			"active": 0
+			},
+		"es3-member-expression-literals": {
+			"active": 0
+			},
+		"es3-property-literals": {
+			"active": 0
+			},
+		"es5-property-mutators": {
+			"active": 0
+			},
+		"eval": {
+			"active": 0
+			},
+		"exponentiation-operator": {
+			"active": 0
+			},
+		"export-extensions": {
+			"active": 0
+			},
+		"external-helpers": {
+			"active": 0
+			},
+		"flow-comments": {
+			"active": 0
+			},
+		"flow-strip-types": {
+			"active": 0
+			},
+		"function-bind": {
+			"active": 0
+			},
+		"inline-environment-variables": {
+			"active": 0
+			},
+		"jscript": {
+			"active": 0
+			},
+		"member-expression-literals": {
+			"active": 0
+			},
+		"merge-sibling-variables": {
+			"active": 0
+			},
+		"minify-booleans": {
+			"active": 0
+			},
+		"node-env-inline": {
+			"active": 0
+			},
+		"object-assign": {
+			"active": 0
+			},
+		"object-rest-spread": {
+			"active": 0
+			},
+		"object-set-prototype-of-to-assign": {
+			"active": 0
+			},
+		"property-literals": {
+			"active": 0
+			},
+		"proto-to-assign": {
+			"active": 0
+			},
+		"react-constant-elements": {
+			"active": 0
+			},
+		"react-display-name": {
+			"active": 0
+			},
+		"react-inline-elements": {
+			"active": 0
+			},
+		"react-jsx": {
+			"active": 0
+			},
+		"react-jsx-compat": {
+			"active": 0
+			},
+		"react-jsx-self": {
+			"active": 0
+			},
+		"react-jsx-source": {
+			"active": 0
+			},
+		"regenerator": {
+			"active": 0
+			},
+		"remove-console": {
+			"active": 0
+			},
+		"remove-debugger": {
+			"active": 0
+			},
+		"runtime": {
+			"active": 0
+			},
+		"simplify-comparison-operators": {
+			"active": 0
+			},
+		"strict-mode": {
+			"active": 0
+			},
+		"syntax-async-generators": {
+			"active": 0
+			},
+		"syntax-class-properties": {
+			"active": 0
+			},
+		"syntax-decorators": {
+			"active": 0
+			},
+		"syntax-do-expressions": {
+			"active": 0
+			},
+		"syntax-export-extensions": {
+			"active": 0
+			},
+		"syntax-flow": {
+			"active": 0
+			},
+		"syntax-function-bind": {
+			"active": 0
+			},
+		"syntax-function-sent": {
+			"active": 0
+			},
+		"syntax-jsx": {
+			"active": 0
+			},
+		"syntax-object-rest-spread": {
+			"active": 0
+			},
+		"undeclared-variables-check": {
+			"active": 0
+			},
+		"undefined-to-void": {
+			"active": 0
+			}
+		},
+	"babelPresetType": 193,
+	"babelRetainLines": 0,
+	"bowerAbbreviatedPath": "bower_components",
+	"bowerAutoCreateInfoFile": 1,
+	"bowerInstallDevDependencies": 0,
+	"bowerSaveDependencies": 1,
+	"bowerSaveDevDependencies": 0,
+	"bowerUseExactVersion": 0,
+	"browserRefreshDelay": 0,
+	"buildFolderActive": 0,
+	"buildFolderName": "build",
+	"cleanBuild": 1,
+	"coffeeLintFlags2": {
+		"arrow_spacing": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camel_case_classes": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"colon_assignment_spacing": {
+			"active": 0,
+			"flagValue": 1
+			},
+		"cyclomatic_complexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"duplicate_key": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"ensure_comprehensions": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indentation": {
+			"active": 1,
+			"flagValue": 2
+			},
+		"line_endings": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"max_line_length": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"missing_fat_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newlines_after_classes": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"no_backticks": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_functions": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_empty_param_list": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_implicit_braces": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_interpolation_in_single_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_nested_string_interpolation": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_private_function_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_stand_alone_at": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_tabs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_this": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_throwing_strings": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_whitespace": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_unnecessary_double_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_unnecessary_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"non_empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prefer_english_operator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space_operators": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"spacing_after_comma": {
+			"active": 1,
+			"flagValue": -1
+			}
+		},
+	"esLintConfigFileHandlingType": 0,
+	"esLintECMAVersion": 7,
+	"esLintEnvironmentsMask": 1,
+	"esLintRules": {
+		"accessor-pairs": {
+			"active": 0,
+			"optionString": "{'setWithoutGet': true, 'getWithoutSet': false}"
+			},
+		"array-bracket-newline": {
+			"active": 0,
+			"optionString": "{'multiline': true, 'minItems': null}"
+			},
+		"array-bracket-spacing": {
+			"active": 0,
+			"optionString": "'never', {'singleValue': false, 'objectsInArrays': false, 'arraysInArrays': false}"
+			},
+		"array-callback-return": {
+			"active": 0,
+			"optionString": "{'allowImplicit': false}"
+			},
+		"array-element-newline": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"arrow-body-style": {
+			"active": 0,
+			"optionString": "'as-needed', {'requireReturnForObjectLiteral': false}"
+			},
+		"arrow-parens": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"arrow-spacing": {
+			"active": 0,
+			"optionString": "{'before': true, 'after': true}"
+			},
+		"block-scoped-var": {
+			"active": 0,
+			"optionString": ""
+			},
+		"block-spacing": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"brace-style": {
+			"active": 0,
+			"optionString": "'1tbs', {'allowSingleLine': true}"
+			},
+		"callback-return": {
+			"active": 0,
+			"optionString": "['callback', 'cb', 'next']"
+			},
+		"camelcase": {
+			"active": 0,
+			"optionString": "{'properties': 'always'}"
+			},
+		"capitalized-comments": {
+			"active": 0,
+			"optionString": "'always', {'ignoreInlineComments': false, 'ignoreConsecutiveComments': false}"
+			},
+		"class-methods-use-this": {
+			"active": 0,
+			"optionString": "{'exceptMethods': []}"
+			},
+		"comma-dangle": {
+			"active": 1,
+			"optionString": "'never'"
+			},
+		"comma-spacing": {
+			"active": 0,
+			"optionString": "{'before': false, 'after': true}"
+			},
+		"comma-style": {
+			"active": 0,
+			"optionString": "'last'"
+			},
+		"complexity": {
+			"active": 0,
+			"optionString": "20"
+			},
+		"computed-property-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"consistent-return": {
+			"active": 0,
+			"optionString": "{'treatUndefinedAsUnspecified': false}"
+			},
+		"consistent-this": {
+			"active": 0,
+			"optionString": "'that'"
+			},
+		"constructor-super": {
+			"active": 1,
+			"optionString": ""
+			},
+		"curly": {
+			"active": 0,
+			"optionString": "'all'"
+			},
+		"default-case": {
+			"active": 0,
+			"optionString": ""
+			},
+		"dot-location": {
+			"active": 0,
+			"optionString": "'object'"
+			},
+		"dot-notation": {
+			"active": 0,
+			"optionString": "{'allowKeywords': false}"
+			},
+		"eol-last": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"eqeqeq": {
+			"active": 0,
+			"optionString": "'always', {'null': 'always'}"
+			},
+		"for-direction": {
+			"active": 0,
+			"optionString": ""
+			},
+		"func-call-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"func-name-matching": {
+			"active": 0,
+			"optionString": "'always', {'includeCommonJSModuleExports': false}"
+			},
+		"func-names": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"func-style": {
+			"active": 0,
+			"optionString": "'expression'"
+			},
+		"function-paren-newline": {
+			"active": 0,
+			"optionString": "'multiline'"
+			},
+		"generator-star-spacing": {
+			"active": 0,
+			"optionString": "{'before': true, 'after': false}"
+			},
+		"getter-return": {
+			"active": 0,
+			"optionString": "{'allowImplicit': false}"
+			},
+		"global-require": {
+			"active": 0,
+			"optionString": ""
+			},
+		"guard-for-in": {
+			"active": 0,
+			"optionString": ""
+			},
+		"handle-callback-err": {
+			"active": 0,
+			"optionString": "'err'"
+			},
+		"id-blacklist": {
+			"active": 0,
+			"optionString": "'data', 'err', 'e', 'cb', 'callback'"
+			},
+		"id-length": {
+			"active": 0,
+			"optionString": "{'min': 2, 'max': 1000, 'properties': 'always', 'exceptions': ['x', 'i', 'y']}"
+			},
+		"id-match": {
+			"active": 0,
+			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
+			},
+		"indent": {
+			"active": 0,
+			"optionString": "4, {'SwitchCase': 0, 'VariableDeclarator': 1, 'outerIIFEBody': 1 }"
+			},
+		"init-declarations": {
+			"active": 0,
+			"optionString": "'always',  {'ignoreForLoopInit': true}"
+			},
+		"jsx-quotes": {
+			"active": 0,
+			"optionString": "'prefer-double'"
+			},
+		"key-spacing": {
+			"active": 0,
+			"optionString": "{'singleLine': {'beforeColon': false, 'afterColon': true, 'mode':'strict'}, 'multiLine': {'beforeColon': false, 'afterColon': true, 'align': 'value', 'mode':'minimum'}}"
+			},
+		"keyword-spacing": {
+			"active": 0,
+			"optionString": "{'before': true, 'after': true, 'overrides': {}}"
+			},
+		"line-comment-position": {
+			"active": 0,
+			"optionString": "{'position': 'above'}"
+			},
+		"linebreak-style": {
+			"active": 0,
+			"optionString": "'unix'"
+			},
+		"lines-around-comment": {
+			"active": 0,
+			"optionString": "{'beforeBlockComment': true}"
+			},
+		"lines-between-class-members": {
+			"active": 0,
+			"optionString": "'always', {exceptAfterSingleLine: false}"
+			},
+		"max-depth": {
+			"active": 0,
+			"optionString": "{'max': 4}"
+			},
+		"max-len": {
+			"active": 0,
+			"optionString": "{'code': 80, 'comments': 80, 'tabWidth': 4, 'ignoreUrls': true, 'ignoreStrings': true, 'ignoreTemplateLiterals': true, 'ignoreRegExpLiterals': true}"
+			},
+		"max-lines": {
+			"active": 0,
+			"optionString": "{'max': 300, 'skipBlankLines': true, 'skipComments': true}"
+			},
+		"max-nested-callbacks": {
+			"active": 0,
+			"optionString": "{'max': 10}"
+			},
+		"max-params": {
+			"active": 0,
+			"optionString": "{'max': 4}"
+			},
+		"max-statements": {
+			"active": 0,
+			"optionString": "{'max': 10}, {'ignoreTopLevelFunctions': true}"
+			},
+		"max-statements-per-line": {
+			"active": 0,
+			"optionString": "{'max': 1}"
+			},
+		"multiline-comment-style": {
+			"active": 0,
+			"optionString": "'starred-block'"
+			},
+		"multiline-ternary": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"new-cap": {
+			"active": 0,
+			"optionString": "{'newIsCap': true, 'capIsNew': true, 'newIsCapExceptions': [], 'capIsNewExceptions': ['Array', 'Boolean', 'Date', 'Error', 'Function', 'Number', 'Object', 'RegExp', 'String', 'Symbol'], 'properties': true}"
+			},
+		"new-parens": {
+			"active": 0,
+			"optionString": ""
+			},
+		"newline-per-chained-call": {
+			"active": 0,
+			"optionString": "{'ignoreChainWithDepth': 2}"
+			},
+		"no-alert": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-array-constructor": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-await-in-loop": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-bitwise": {
+			"active": 0,
+			"optionString": "{'allow': ['~'], 'int32Hint': true}"
+			},
+		"no-buffer-constructor": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-caller": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-case-declarations": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-catch-shadow": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-class-assign": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-compare-neg-zero": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-cond-assign": {
+			"active": 1,
+			"optionString": "'except-parens'"
+			},
+		"no-confusing-arrow": {
+			"active": 0,
+			"optionString": "{'allowParens': false}"
+			},
+		"no-console": {
+			"active": 1,
+			"optionString": "{'allow': ['warn', 'error']}"
+			},
+		"no-const-assign": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-constant-condition": {
+			"active": 1,
+			"optionString": "{'checkLoops': true}"
+			},
+		"no-continue": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-control-regex": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-debugger": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-delete-var": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-div-regex": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-dupe-args": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-dupe-class-members": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-dupe-keys": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-duplicate-imports": {
+			"active": 0,
+			"optionString": "{'includeExports': false}"
+			},
+		"no-else-return": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-empty": {
+			"active": 1,
+			"optionString": "{'allowEmptyCatch': false}"
+			},
+		"no-empty-character-class": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-empty-function": {
+			"active": 0,
+			"optionString": "{'allow': []}"
+			},
+		"no-empty-pattern": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-eq-null": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-eval": {
+			"active": 0,
+			"optionString": "{'allowIndirect': false}"
+			},
+		"no-ex-assign": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-extend-native": {
+			"active": 0,
+			"optionString": "{'exceptions': []}"
+			},
+		"no-extra-bind": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-extra-boolean-cast": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-extra-labels": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-extra-parens": {
+			"active": 0,
+			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false, 'ignoreJSX': 'none', 'enforceForArrowConditionals': false}"
+			},
+		"no-extra-semi": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-fallthrough": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-floating-decimal": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-func-assign": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-global-assign": {
+			"active": 1,
+			"optionString": "{'exceptions': []}"
+			},
+		"no-implicit-coercion": {
+			"active": 0,
+			"optionString": "{'boolean': true, 'number': true, 'string': true, 'allow': []}"
+			},
+		"no-implicit-globals": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-implied-eval": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-inline-comments": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-inner-declarations": {
+			"active": 1,
+			"optionString": "'functions'"
+			},
+		"no-invalid-regexp": {
+			"active": 1,
+			"optionString": "{'allowConstructorFlags': ['u', 'y']}"
+			},
+		"no-invalid-this": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-irregular-whitespace": {
+			"active": 1,
+			"optionString": "{'skipStrings': true, 'skipComments': false, 'skipRegExps': true, 'skipTemplates': true}"
+			},
+		"no-iterator": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-label-var": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-labels": {
+			"active": 0,
+			"optionString": "{'allowLoop': false, 'allowSwitch': false}"
+			},
+		"no-lone-blocks": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-lonely-if": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-loop-func": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-magic-numbers": {
+			"active": 0,
+			"optionString": "{'ignore': [], 'ignoreArrayIndexes': true, 'enforceConst': false, 'detectObjects': false}"
+			},
+		"no-mixed-operators": {
+			"active": 0,
+			"optionString": "{'groups': [['+', '-', '*', '\/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
+			},
+		"no-mixed-requires": {
+			"active": 0,
+			"optionString": "{'grouping': false, 'allowCall': false }"
+			},
+		"no-mixed-spaces-and-tabs": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-multi-assign": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-multi-spaces": {
+			"active": 0,
+			"optionString": "{'exceptions': {'Property': true, 'BinaryExpression': false, 'VariableDeclarator': false, 'ImportDeclaration': false}}"
+			},
+		"no-multi-str": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-multiple-empty-lines": {
+			"active": 0,
+			"optionString": "{'max': 2, 'maxBOF': 2, 'maxEOF': 2}"
+			},
+		"no-negated-condition": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-nested-ternary": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new-func": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new-object": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new-require": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new-symbol": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-new-wrappers": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-obj-calls": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-octal": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-octal-escape": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-param-reassign": {
+			"active": 0,
+			"optionString": "{'props': false}"
+			},
+		"no-path-concat": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-plusplus": {
+			"active": 0,
+			"optionString": "{'allowForLoopAfterthoughts': false}"
+			},
+		"no-process-env": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-process-exit": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-proto": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-prototype-builtins": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-redeclare": {
+			"active": 1,
+			"optionString": "{'builtinGlobals': false}"
+			},
+		"no-regex-spaces": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-restricted-globals": {
+			"active": 0,
+			"optionString": "'event', 'fdescribe'"
+			},
+		"no-restricted-imports": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-restricted-modules": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-restricted-properties": {
+			"active": 0,
+			"optionString": "[{'object': 'disallowedObjectName', 'property': 'disallowedPropertyName'}, {'object': 'disallowedObjectName', 'property': 'anotherDisallowedPropertyName', 'message': 'Please use allowedObjectName.allowedPropertyName.'}]"
+			},
+		"no-restricted-syntax": {
+			"active": 0,
+			"optionString": "'FunctionExpression', 'WithStatement'"
+			},
+		"no-return-assign": {
+			"active": 0,
+			"optionString": "'except-parens'"
+			},
+		"no-return-await": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-script-url": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-self-assign": {
+			"active": 1,
+			"optionString": "{'props': false}"
+			},
+		"no-self-compare": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-sequences": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-shadow": {
+			"active": 0,
+			"optionString": "{'builtinGlobals': false, 'hoist': 'functions', 'allow': []}"
+			},
+		"no-shadow-restricted-names": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-sparse-arrays": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-sync": {
+			"active": 0,
+			"optionString": "{'allowAtRootLevel': false}"
+			},
+		"no-tabs": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-template-curly-in-string": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-ternary": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-this-before-super": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-throw-literal": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-trailing-spaces": {
+			"active": 0,
+			"optionString": "{'skipBlankLines': false, 'ignoreComments': false}"
+			},
+		"no-undef": {
+			"active": 1,
+			"optionString": "{'typeof': false}"
+			},
+		"no-undef-init": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-undefined": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-underscore-dangle": {
+			"active": 0,
+			"optionString": "{'allow': [], 'allowAfterThis': false, 'allowAfterSuper': false, 'enforceInMethodNames': false}"
+			},
+		"no-unexpected-multiline": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-unmodified-loop-condition": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-unneeded-ternary": {
+			"active": 0,
+			"optionString": "{'defaultAssignment': true}"
+			},
+		"no-unreachable": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-unsafe-finally": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-unsafe-negation": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-unused-expressions": {
+			"active": 0,
+			"optionString": "{'allowShortCircuit': false, 'allowTernary': false, 'allowTaggedTemplates': false}"
+			},
+		"no-unused-labels": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-unused-vars": {
+			"active": 1,
+			"optionString": "{'vars': 'all', 'args': 'after-used', 'caughtErrors': 'none', 'ignoreRestSiblings': false}"
+			},
+		"no-use-before-define": {
+			"active": 0,
+			"optionString": "{'functions': true, 'classes': true, 'variables': true}"
+			},
+		"no-useless-call": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-computed-key": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-concat": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-constructor": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-escape": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-rename": {
+			"active": 0,
+			"optionString": "{'ignoreDestructuring': false, 'ignoreImport': false, 'ignoreExport': false}"
+			},
+		"no-useless-return": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-var": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-void": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-warning-comments": {
+			"active": 0,
+			"optionString": "{'terms': ['todo', 'fixme', 'xxx'], 'location': 'start'}"
+			},
+		"no-whitespace-before-property": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-with": {
+			"active": 0,
+			"optionString": ""
+			},
+		"nonblock-statement-body-position": {
+			"active": 0,
+			"optionString": "'beside'"
+			},
+		"object-curly-newline": {
+			"active": 0,
+			"optionString": "{'ObjectExpression': {'multiline': true}, 'ObjectPattern': {'multiline': true}}"
+			},
+		"object-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"object-property-newline": {
+			"active": 0,
+			"optionString": "{'allowAllPropertiesOnSameLine': true}"
+			},
+		"object-shorthand": {
+			"active": 0,
+			"optionString": "'always', {'avoidQuotes': false, 'ignoreConstructors': false}"
+			},
+		"one-var": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"one-var-declaration-per-line": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"operator-assignment": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"operator-linebreak": {
+			"active": 0,
+			"optionString": "'after', {'overrides': {'?': 'after', '+=': 'none'}}"
+			},
+		"padded-blocks": {
+			"active": 0,
+			"optionString": "{'blocks': 'always', 'switches': 'always', 'classes': 'always'}"
+			},
+		"padding-line-between-statements": {
+			"active": 0,
+			"optionString": "{blankLine: 'always', prev:'*', next:'return'}"
+			},
+		"prefer-arrow-callback": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-const": {
+			"active": 0,
+			"optionString": "{'destructuring': 'any', 'ignoreReadBeforeAssign': false}"
+			},
+		"prefer-destructuring": {
+			"active": 0,
+			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
+			},
+		"prefer-numeric-literals": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-promise-reject-errors": {
+			"active": 0,
+			"optionString": "{'allowEmptyReject': false}"
+			},
+		"prefer-rest-params": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-spread": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-template": {
+			"active": 0,
+			"optionString": ""
+			},
+		"quote-props": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"quotes": {
+			"active": 0,
+			"optionString": "'double', {'avoidEscape': true, 'allowTemplateLiterals': true}"
+			},
+		"radix": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"require-await": {
+			"active": 0,
+			"optionString": ""
+			},
+		"require-jsdoc": {
+			"active": 0,
+			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false, 'ArrowFunctionExpression': false}}"
+			},
+		"require-yield": {
+			"active": 1,
+			"optionString": ""
+			},
+		"rest-spread-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"semi": {
+			"active": 0,
+			"optionString": "'always', {'omitLastInOneLineBlock': false}"
+			},
+		"semi-spacing": {
+			"active": 0,
+			"optionString": "{'before': false, 'after': true}"
+			},
+		"semi-style": {
+			"active": 0,
+			"optionString": "'last'"
+			},
+		"sort-imports": {
+			"active": 0,
+			"optionString": "{'ignoreCase': false, 'ignoreMemberSort': true, 'memberSyntaxSortOrder': ['none', 'all', 'multiple', 'single']}"
+			},
+		"sort-keys": {
+			"active": 0,
+			"optionString": "'asc', {'caseSensitive': true, 'natural': false}"
+			},
+		"sort-vars": {
+			"active": 0,
+			"optionString": "{'ignoreCase': false}"
+			},
+		"space-before-blocks": {
+			"active": 0,
+			"optionString": "{'functions': 'always', 'keywords': 'always', 'classes': 'always'}"
+			},
+		"space-before-function-paren": {
+			"active": 0,
+			"optionString": "{'anonymous': 'always', 'named': 'never'}"
+			},
+		"space-in-parens": {
+			"active": 0,
+			"optionString": "'never', {'exceptions': []}"
+			},
+		"space-infix-ops": {
+			"active": 0,
+			"optionString": "{'int32Hint': false}"
+			},
+		"space-unary-ops": {
+			"active": 0,
+			"optionString": "{'words': true, 'nonwords': false, 'overrides': {}}"
+			},
+		"spaced-comment": {
+			"active": 0,
+			"optionString": "'always', {'line': {'markers': ['\/'], 'exceptions': ['-', '+']}, 'block': {'markers': ['!'], 'exceptions': ['*'], 'balanced': false}}"
+			},
+		"strict": {
+			"active": 0,
+			"optionString": "'safe'"
+			},
+		"switch-colon-spacing": {
+			"active": 0,
+			"optionString": "{'after': true, 'before': false}"
+			},
+		"symbol-description": {
+			"active": 0,
+			"optionString": ""
+			},
+		"template-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"template-tag-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"unicode-bom": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"use-isnan": {
+			"active": 1,
+			"optionString": ""
+			},
+		"valid-jsdoc": {
+			"active": 0,
+			"optionString": "{'prefer': {'return': 'returns'}, 'requireReturn': true, 'requireReturnDescription': true, 'requireReturnType': true, 'requireParamDescription': true}"
+			},
+		"valid-typeof": {
+			"active": 1,
+			"optionString": "{'requireStringLiterals': true}"
+			},
+		"vars-on-top": {
+			"active": 0,
+			"optionString": ""
+			},
+		"wrap-iife": {
+			"active": 0,
+			"optionString": "'outside'"
+			},
+		"wrap-regex": {
+			"active": 0,
+			"optionString": ""
+			},
+		"yield-star-spacing": {
+			"active": 0,
+			"optionString": "{'before': false, 'after': true}"
+			},
+		"yoda": {
+			"active": 0,
+			"optionString": "'never', {'exceptRange': false, 'onlyEquality': false}"
+			}
+		},
+	"esLintSourceType": 0,
+	"externalServerAddress": "http:\/\/localhost:8888",
+	"gitIgnoreBuildFolder": 1,
+	"hideConfigFile": 0,
+	"jsCheckerReservedNamesString": "",
+	"jsHintFlags2": {
+		"asi": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"boss": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"browserify": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camelcase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"curly": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"dojo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"elision": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqeqeq": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqnull": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es3": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"esnext": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"expr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"freeze": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"funcscope": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"futurehostile": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"globalstrict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"immed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"iterator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jasmine": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jquery": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"lastsemic": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"latedef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"laxbreak": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"laxcomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loopfunc": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxcomplexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"maxdepth": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"maxparams": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxstatements": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"mocha": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"mootools": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"moz": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"multistr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newcap": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noarg": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nocomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"noempty": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonbsp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonew": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nonstandard": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"notypeof": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noyield": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"onecase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"phantom": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prototypejs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"qunit": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"scripturl": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shadow": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shelljs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"singleGroups": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"strict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"supernew": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"typed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"undef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"varstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"withstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"worker": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"wsh": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"yui": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsLintFlags2": {
+		"bitwise": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es6": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"for": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"this": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"white": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"languageDefaultsCOFFEE": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.js",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 0,
+		"minifyOutput": 1,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 1,
+		"transpilerStyle": 1
+		},
+	"languageDefaultsCSS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*-min.css",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0
+		},
+	"languageDefaultsGIF": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.gif",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0
+		},
+	"languageDefaultsHAML": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"escapeHTMLCharacters": 0,
+		"noEscapeInAttributes": 0,
+		"outputFormat": 2,
+		"outputStyle": 0,
+		"shouldRunCacheBuster": 0,
+		"useCDATA": 0,
+		"useDoubleQuotes": 0,
+		"useUnixNewlines": 0
+		},
+	"languageDefaultsJPG": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.jpg",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
+		"quality": 100
+		},
+	"languageDefaultsJS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*-min.js",
+		"autoOutputPathRelativePath": "\/min",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 0,
+		"minifyOutput": 1,
+		"syntaxCheckerStyle": 3,
+		"transpilerStyle": 0
+		},
+	"languageDefaultsJSON": {
+		"autoOutputAction": 1,
+		"autoOutputPathFilenamePattern": "*-min.json",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"orderOutput": 0,
+		"outputStyle": 1
+		},
+	"languageDefaultsKIT": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "kit",
+		"autoOutputPathReplace2": "html",
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
+		},
+	"languageDefaultsLESS": {
+		"allowInsecureImports": 0,
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.css",
+		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathReplace1": "less",
+		"autoOutputPathReplace2": "css",
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"ieCompatibility": 1,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"languageDefaultsMARKDOWN": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"maskEmailAddresses": 1,
+		"outputFormat": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"shouldRunCacheBuster": 0,
+		"useCompatibilityMode": 0
+		},
+	"languageDefaultsOTHER": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.*",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
+		},
+	"languageDefaultsPNG": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.png",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"optimizerType": 1,
+		"quality": 100
+		},
+	"languageDefaultsPUG": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"compileDebug": 1,
+		"outputStyle": 0,
+		"shouldRunCacheBuster": 0
+		},
+	"languageDefaultsSASS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.css",
+		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathReplace1": "sass",
+		"autoOutputPathReplace2": "css",
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"languageDefaultsSLIM": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"compileOnly": 0,
+		"logicless": 0,
+		"outputFormat": 0,
+		"outputStyle": 1,
+		"railsCompatible": 0,
+		"shouldRunCacheBuster": 0
+		},
+	"languageDefaultsSTYLUS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.css",
+		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathReplace1": "stylus",
+		"autoOutputPathReplace2": "css",
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"importCSS": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"languageDefaultsSVG": {
+		"autoOutputAction": 2,
+		"autoOutputPathFilenamePattern": "*.svg",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"pluginMask": 3758088159
+		},
+	"languageDefaultsTS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.js",
+		"autoOutputPathRelativePath": "\/js",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"createDeclarationFile": 0,
+		"createSourceMap": 0,
+		"jsxMode": 0,
+		"minifyOutput": 0,
+		"moduleResolutionType": 0,
+		"moduleType": 2,
+		"noImplicitAny": 0,
+		"preserveConstEnums": 0,
+		"removeComments": 0,
+		"suppressImplicitAnyIndexErrors": 0,
+		"targetECMAVersion": 0
+		},
+	"languageDefaultsUserDefined": [
+		],
+	"overrideExternalServerCSS": 0,
+	"previewPathAddition": "",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules",
+	"sourceFolderName": "source",
+	"susyVersion": 3,
+	"uglifyDefinesString": "",
+	"uglifyFlags2": {
+		"ascii-only": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bare-returns": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"booleans": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"bracketize": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"cascade": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comparisons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"compress": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"conditionals": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"dead_code": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_console": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evaluate": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indent-level": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"indent-start": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"inline-script": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"join_vars": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"keep_fargs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_fnames": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loops": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"mangle": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"max-line-len": {
+			"active": 1,
+			"flagValue": 32000
+			},
+		"negate_iife": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"properties": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"pure_getters": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"quote-keys": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"screw-ie8": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sequences": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sort": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space-colon": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"support-ie8": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"toplevel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"warnings": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"width": {
+			"active": 1,
+			"flagValue": 80
+			}
+		},
+	"uglifyReservedNamesString": "$",
+	"websiteRelativeRoot": ""
+	},
+"settingsFileVersion": "3"
+}
