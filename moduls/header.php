@@ -9,7 +9,7 @@
 
   <div class="nav-buttons">
 
-    <a href="" class="year-switcher">'16</a>
+    <a href="https://2016.transparencee.org/" class="year-switcher">'16</a>
 
     <a href="" class="hamburger-button">
       <img class="white" src="images/menu_biale.png" alt="">
