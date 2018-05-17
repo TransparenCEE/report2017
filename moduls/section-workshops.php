@@ -16,7 +16,7 @@ Watch how they looked like and learn more about our methodology that builds brid
     </div>
     
     <div class="center-buttons">
-      <a href="#" class="redbutton bigbutton">Workshop toolkit
+      <a href="http://edu.transparencee.org/" class="redbutton bigbutton">Workshop toolkit
         
       <div class="green-arrow left"><img src="images/arrow-left.svg" alt=""></div>
       <div class="green-arrow right"><img src="images/arrow-right.svg" alt=""></div>

@@ -51,10 +51,10 @@
           <a href="#" data-goto="workshops">conducted workshops</a>
         </li>
         <li class="delay7">
-          <a href="#" data-goto="working-groups">developed a methodology</a>
+          <a href="#" data-goto="working-groups">built thematic experts community</a>
         </li>
         <li class="delay8">
-          <a href="#" data-goto="whats-next">made plans</a>
+          <a href="#" data-goto="whats-next">created a strategy to expand the network</a>
         </li>
         
       </ul>

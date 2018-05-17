@@ -1,4 +1,4 @@
-<section id="whats-next" data-anchor="whats-next" class="section menu-section dark">
+<section id="section-whats-next" data-anchor="whats-next" class="section menu-section dark">
   <div class="content-column">
     <h2 class="slide-title">
       <span class="title-text">What’s next?</span>
@@ -8,7 +8,8 @@
     <div class="slide-lead">Civic tech community around the world still remains fairly small, closed, and privileged group
       due to various socio-economic barriers that prevent it from transforming into a <span class="invert">global movement.</span></div>
     
-    <p class="slide-lead-smaller">This is why in 2018 TransparenCEE Network will direct its efforts on removing or lowering these barriers. Our 3 main priority areas will be:</p>
+    <p class="slide-lead-smaller">This is why in 2018 TransparenCEE Network will direct its efforts on removing or lowering these barriers.
+        <br/>Our 3 main priority areas will be:</p>
           
    
         <div class="whats-next-points">

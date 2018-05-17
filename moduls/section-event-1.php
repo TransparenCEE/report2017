@@ -13,9 +13,9 @@
         </div>
 
         <div class="event-image-link">
-          <a target="_blank" href="http://point.zastone.ba/en/">Website</a>
+          <a target="_blank" href="https://epf.org.pl/en/events/personal-democracy-forum-2017/">Website</a>
            <span class="divider">|</span>
-           <a target="_blank" href="http://transparencee.org/news/point-the-5th-time/">Article</a>
+           <a target="_blank" href="https://transparencee.org/news/diagnosing-democratic-system-went-wrong-personal-democracy-forum-cee-2017/">Article</a>
            <span class="divider">|</span>
            <a target="_blank" href="https://www.youtube.com/watch?v=0zv70h93Jd4&list=PLa_8n5BEWSblTK5MaZAn6gW6_dJTgF88g">Watch sessions</a>
           <!-- <img src="images/arrow-left.svg" class="links-arrow" alt=""> -->

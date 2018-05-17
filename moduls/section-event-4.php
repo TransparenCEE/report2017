@@ -9,13 +9,13 @@
       <div class="event-image-1">
         <img src="images/datafest-1.jpg" alt="">
         <div class="event-image-link color-links-box">
-          <a target="_blank" href="http://point.zastone.ba/en/">Website</a>
+          <a target="_blank" href="https://datafest.ge/">Website</a>
           <span class="divider">|</span>
           <span>
             Watch sessions: 
-            <a target="_blank" href="https://www.facebook.com/DataFestTbilisi/videos/190416008193843/">Day 1</a> / 
-            <a target="_blank" href="https://www.facebook.com/DataFestTbilisi/videos/190456824856428/">Day 2</a> /
-            <a target="_blank" href="https://www.facebook.com/DataFestTbilisi/videos/190497131519064/">Day 3</a>
+            <a target="_blank" href="https://www.facebook.com/DataFestTbilisi/videos/190416008193843/">#1</a> /
+            <a target="_blank" href="https://www.facebook.com/DataFestTbilisi/videos/190456824856428/">#2</a> /
+            <a target="_blank" href="https://www.facebook.com/DataFestTbilisi/videos/190497131519064/">#3</a>
           </span>
         </div>
       </div> 

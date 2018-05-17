@@ -11,29 +11,29 @@ issues in the region</div>
 
 
     <div class="projects-blocks">
-      <a href="#" data-goto="assets-declarations" class="project-block">
+      <a href="http://assetdeclarations.transparencee.org/" data-goto="assets-declarations" class="project-block">
         <span class="project-number">1</span>
         <span class="project-name">Assets Declarations in SEE</span>
       </a>
-      <a href="#" data-goto="ted2" class="project-block">
+      <a href="http://www.tenderbase.eu/" data-goto="ted2" class="project-block">
         <span class="project-number">4</span>
         <span class="project-name">EU Tender Base</span>
       </a>
-      <a href="#" data-goto="konsultimi-publik" class="project-block">
+      <a href="http://www.konsultimipublik.al/" data-goto="konsultimi-publik" class="project-block">
         <span class="project-number">2</span>
         <span class="project-name">Konsultimi Publik</span>
       </a>
-      <a href="#" data-goto="public-procurement" class="project-block">
+      <a href="http://www.indicatortoolbox.eu/" data-goto="public-procurement" class="project-block">
         <span class="project-number">5</span>
         <span class="project-name">Public Procurement Indicators ToolBox</span>
       </a>
-      <a href="#" data-goto="moonship" class="project-block">
+      <a href="http://moonsheep.org/" data-goto="moonship" class="project-block">
         <span class="project-number">3</span>
-        <span class="project-name">MoonSheep</span>
+        <span class="project-name">Moonsheep</span>
       </a>
-      <a href="#" data-goto="social-media-scraper" class="project-block">
+      <a href="https://social-scraper.netlify.com/" data-goto="social-media-scraper" class="project-block">
         <span class="project-number">6</span>
-        <span class="project-name">Social Media Scraper</span>
+        <span class="project-name">SMoothie: Social Media Scraper</span>
       </a>
     </div>
 

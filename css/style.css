@@ -828,11 +828,14 @@ a {
   margin-top: 40px;
 }
 #section-community-voices .quote-text {
-  font-size: 20px;
+  font-size: 24px;
   line-height: 30px;
   font-weight: 500;
   margin-bottom: 15px;
   color: #ffffff;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-style: italic;
 }
 #section-community-voices .quote-author {
   font-weight: bold;
@@ -1067,13 +1070,13 @@ a {
 #section-events .content-column {
   width: 900px;
 }
-#whats-next {
+#section-whats-next {
   background: #f06d5d;
 }
-#whats-next .slide-title span {
+#section-whats-next .slide-title span {
   background: #f06d5d;
 }
-#whats-next .whats-next-points {
+#section-whats-next .whats-next-points {
   color: #ffffff;
   max-width: 800px;
   margin: auto;
@@ -1081,11 +1084,11 @@ a {
   text-align: left;
   position: relative;
 }
-#whats-next .whats-next-points .working-group-outcome {
+#section-whats-next .whats-next-points .working-group-outcome {
   padding-left: 60px;
   position: relative;
 }
-#whats-next .whats-next-points .working-group-outcome:after {
+#section-whats-next .whats-next-points .working-group-outcome:after {
   height: 44px;
   width: 44px;
   display: block;
@@ -1095,10 +1098,10 @@ a {
   top: -10px;
   left: 0px;
 }
-#whats-next .whats-next-points .working-group-outcome {
+#section-whats-next .whats-next-points .working-group-outcome {
   margin-bottom: 1rem;
 }
-#whats-next .whats-next-points h2 {
+#section-whats-next .whats-next-points h2 {
   margin-bottom: 5px;
   font-weight: 700;
   font-size: 20px;
@@ -2275,7 +2278,6 @@ a {
 }
 .social-icons {
   display: flex;
-  font-weight: black;
 }
 .social-icons .soc-icon {
   width: 25%;
@@ -2680,7 +2682,7 @@ a {
     padding-bottom: 20px;
     width: 100%;
   }
-  #whats-next .whats-next-points {
+  #section-whats-next .whats-next-points {
     width: 100%;
   }
 }

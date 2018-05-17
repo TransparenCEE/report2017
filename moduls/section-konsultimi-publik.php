@@ -12,7 +12,7 @@
     </div>
     
     <div class="center-buttons">
-      <a href="#" class="redbutton">Visit website</a>
+      <a href="http://www.konsultimipublik.al/" class="redbutton">Visit website</a>
     </div>
     
 

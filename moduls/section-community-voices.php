@@ -4,9 +4,6 @@
       <span class="title-text">Community Voices</span>
       <span class="shadow"></span>
     </h2>
-
-    <div class="slide-lead">We asked our members <span class="invert">why they value TransparenCEE.</span> Here’s what they had to say!
-</div>
     
     <div class="quotes-container">
       

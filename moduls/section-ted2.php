@@ -7,12 +7,12 @@
 
     <div class="video-container">
       <div class="iframe-container">
-        <iframe width="" height="" src="https://www.youtube.com/embed/bSogaP749IQ" frameborder="0" allowfullscreen></iframe>
+        <iframe width="" height="" src="https://www.youtube.com/embed/Ua5Trz6FT4Q" frameborder="0" allowfullscreen></iframe>
       </div>  
     </div>
     
     <div class="center-buttons">
-      <a href="#" class="redbutton">Visit website</a>
+      <a href="http://www.tenderbase.eu/" class="redbutton">Visit website</a>
     </div>
     
 

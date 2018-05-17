@@ -10,7 +10,7 @@
     </div>
     
     <div class="center-buttons">
-      <a href="http://itb-demo.deepdata.hu/" class="redbutton">Visit website</a>
+      <a href="http://www.indicatortoolbox.eu/" class="redbutton">Visit website</a>
     </div>
     
 

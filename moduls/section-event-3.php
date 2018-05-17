@@ -11,7 +11,7 @@
         <div class="event-image-link">
           <a target="_blank" href="http://point.zastone.ba/en/">Website</a>
            <span class="divider">|</span>
-           <a target="_blank" href="http://transparencee.org/news/point-the-5th-time/">Article</a>
+           <a target="_blank" href="https://transparencee.org/news/point-6-0-platform-civil-societys-use-new-technologies/">Article</a>
           <img src="images/arrow-left.svg" class="links-arrow" alt="">
         </div>
       </div> 

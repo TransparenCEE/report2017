@@ -25,7 +25,7 @@ projects? People before Technology</a></h5>
 
 <div class="research-link">
 
-            <h5><a href="#">Technology without use</a></h5>
+            <h5><a href="http://techfails.transparencee.org/">Civic tech tools that did not meet expectations: Lessons learned from the field</a></h5>
             
           </div>
 
@@ -36,15 +36,13 @@ projects? People before Technology</a></h5>
       <div class="reserach-column">
 
           <div class="research-link">
-            <h5><a href="http://opendata-goodpractices.transparencee.org/">Open-data project tailored to the audience needs: Good practices and lessons learned</a></h5>
+            <h5><a href="https://www.youtube.com/watch?v=Gz5tf1u3kts">Watch: When civic meets tech: How do they get along with each other?</a></h5>
           </div>
 
 
           <div class="research-link">
 
-            <h5><a href="#">Developing an open-data project
-            tailored to the audience demands.
-            Good practices and lessons learned</a></h5>
+            <h5><a href="http://opendata-goodpractices.transparencee.org/">Open-data project tailored to the audience needs: Good practices and lessons learned</a></h5>
             
           </div>
 

@@ -10,7 +10,7 @@
       <div class="event-image-1">
         <img src="images/event-2-1.jpg" alt="">
         <div class="event-image-link">
-          <a target="_blank" href="http://epf.org.pl/en/events/personal-democracy-forum-pl-and-cee-2016/">Website</a>
+          <a target="_blank" href="http://pdfukraine.org/">Website</a>
            <span class="divider">|</span>
 
           <?php include ("moduls/photos-2.php"); ?>
@@ -26,7 +26,7 @@
             Watch sessions: <a target="_blank" href="https://www.facebook.com/cn.opora/videos/10154889359375108/">Day 1</a> / <a target="_blank" href="https://www.facebook.com/cn.opora/videos/10154889738025108/">Day 2</a>
           </span>
           <span class="divider">|</span>
-          <a target="_blank" href="#">Read article</a>
+          <a target="_blank" href="https://transparencee.org/news/will-technology-bring-democracy-pdfua-2017/">Read article</a>
         </div>
       </div>
     </div>
