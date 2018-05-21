@@ -8,12 +8,12 @@
 
     <div class="event-images">
       <div class="event-image-1">
-        <img src="images/event-2-1.jpg" alt="">
+        <img src="images/PersonalDemocracyForumUA/IMG_0309.jpg" alt="">
         <div class="event-image-link">
           <a target="_blank" href="http://pdfukraine.org/">Website</a>
            <span class="divider">|</span>
 
-          <?php include ("moduls/photos-2.php"); ?>
+          <?php include ("moduls/photos-1.php"); ?>
           <img src="images/arrow-left.svg" class="links-arrow" alt="">
         </div>
       </div> 
