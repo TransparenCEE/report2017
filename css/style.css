@@ -1217,6 +1217,7 @@ a {
 .research-columns .research-link {
   margin-bottom: 30px;
   padding-left: 80px;
+    min-height: 54px;
   text-align: left;
   position: relative;
 }
