@@ -33,7 +33,7 @@ issues in the region</div>
       </a>
       <a href="https://social-scraper.netlify.com/" data-goto="social-media-scraper" class="project-block">
         <span class="project-number">6</span>
-        <span class="project-name">SMoothie: Social Media Scraper</span>
+        <span class="project-name">SMoothie: Social Media Scraper (in progress)</span>
       </a>
     </div>
 
