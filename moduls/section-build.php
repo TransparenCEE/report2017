@@ -27,7 +27,7 @@ issues in the region</div>
         <span class="project-number">5</span>
         <span class="project-name">Public Procurement Indicators ToolBox</span>
       </a>
-      <a href="http://moonsheep.org/" data-goto="moonship" class="project-block">
+      <a href="http://moonsheep.org/" data-goto="moonsheep" class="project-block">
         <span class="project-number">3</span>
         <span class="project-name">Moonsheep</span>
       </a>

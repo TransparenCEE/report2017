@@ -149,7 +149,7 @@ var hideMenu = function(){
        'build',
        'assets-declarations',
        'konsultimi-publik',
-       'moonship',
+       'moonsheep',
        'ted2',
        'public-procurement',
        'social-media-scraper',
